@@ -1,0 +1,3154 @@
+date_value,area_name,disease,metric_value
+----------,---------,-------,------------
+2023-01-01,East Midlands,COVID-19,8.0600
+2023-01-01,East Midlands,influenza,13.1200
+2023-01-01,East Midlands,RSV,4.0900
+2023-01-01,East of England,COVID-19,6.8700
+2023-01-01,East of England,influenza,12.6900
+2023-01-01,East of England,RSV,5.0100
+2023-01-01,England,COVID-19,7.3100
+2023-01-01,England,influenza,14.4300
+2023-01-01,England,RSV,4.7500
+2023-01-01,London,COVID-19,8.6100
+2023-01-01,London,influenza,16.3300
+2023-01-01,London,RSV,4.3800
+2023-01-01,North East,COVID-19,4.8800
+2023-01-01,North East,influenza,15.4900
+2023-01-01,North East,RSV,4.5300
+2023-01-01,North West,COVID-19,5.8100
+2023-01-01,North West,influenza,15.9300
+2023-01-01,North West,RSV,4.9300
+2023-01-01,South East,COVID-19,8.5300
+2023-01-01,South East,influenza,14.2000
+2023-01-01,South East,RSV,4.4200
+2023-01-01,South West,COVID-19,8.6200
+2023-01-01,South West,influenza,15.2600
+2023-01-01,South West,RSV,4.1600
+2023-01-01,West Midlands,COVID-19,5.9600
+2023-01-01,West Midlands,influenza,16.7100
+2023-01-01,West Midlands,RSV,5.0300
+2023-01-01,Yorkshire and The Humber,COVID-19,7.4100
+2023-01-01,Yorkshire and The Humber,influenza,11.9100
+2023-01-01,Yorkshire and The Humber,RSV,4.8100
+2023-01-08,East Midlands,COVID-19,4.8800
+2023-01-08,East Midlands,influenza,11.6900
+2023-01-08,East Midlands,RSV,4.4700
+2023-01-08,East of England,COVID-19,6.2700
+2023-01-08,East of England,influenza,14.4800
+2023-01-08,East of England,RSV,4.2000
+2023-01-08,England,COVID-19,5.9800
+2023-01-08,England,influenza,13.1700
+2023-01-08,England,RSV,4.3400
+2023-01-08,London,COVID-19,7.6100
+2023-01-08,London,influenza,11.4200
+2023-01-08,London,RSV,5.3400
+2023-01-08,North East,COVID-19,6.2300
+2023-01-08,North East,influenza,12.1400
+2023-01-08,North East,RSV,3.9000
+2023-01-08,North West,COVID-19,7.4800
+2023-01-08,North West,influenza,16.2900
+2023-01-08,North West,RSV,4.2400
+2023-01-08,South East,COVID-19,7.0100
+2023-01-08,South East,influenza,13.5700
+2023-01-08,South East,RSV,5.0600
+2023-01-08,South West,COVID-19,6.7300
+2023-01-08,South West,influenza,15.8700
+2023-01-08,South West,RSV,5.2500
+2023-01-08,West Midlands,COVID-19,7.2000
+2023-01-08,West Midlands,influenza,11.4200
+2023-01-08,West Midlands,RSV,4.6000
+2023-01-08,Yorkshire and The Humber,COVID-19,8.0800
+2023-01-08,Yorkshire and The Humber,influenza,12.7500
+2023-01-08,Yorkshire and The Humber,RSV,5.1600
+2023-01-15,East Midlands,COVID-19,7.8900
+2023-01-15,East Midlands,influenza,11.8400
+2023-01-15,East Midlands,RSV,3.6700
+2023-01-15,East of England,COVID-19,7.1700
+2023-01-15,East of England,influenza,12.7300
+2023-01-15,East of England,RSV,3.1000
+2023-01-15,England,COVID-19,6.5900
+2023-01-15,England,influenza,12.9800
+2023-01-15,England,RSV,4.3800
+2023-01-15,London,COVID-19,7.4100
+2023-01-15,London,influenza,11.2500
+2023-01-15,London,RSV,4.9200
+2023-01-15,North East,COVID-19,6.4100
+2023-01-15,North East,influenza,11.3900
+2023-01-15,North East,RSV,4.4800
+2023-01-15,North West,COVID-19,4.7400
+2023-01-15,North West,influenza,12.4300
+2023-01-15,North West,RSV,3.9800
+2023-01-15,South East,COVID-19,6.7400
+2023-01-15,South East,influenza,10.0400
+2023-01-15,South East,RSV,5.4700
+2023-01-15,South West,COVID-19,4.7900
+2023-01-15,South West,influenza,12.2200
+2023-01-15,South West,RSV,4.7100
+2023-01-15,West Midlands,COVID-19,4.9800
+2023-01-15,West Midlands,influenza,11.2600
+2023-01-15,West Midlands,RSV,5.0200
+2023-01-15,Yorkshire and The Humber,COVID-19,7.2700
+2023-01-15,Yorkshire and The Humber,influenza,11.9500
+2023-01-15,Yorkshire and The Humber,RSV,5.6100
+2023-01-22,East Midlands,COVID-19,6.2000
+2023-01-22,East Midlands,influenza,15.0300
+2023-01-22,East Midlands,RSV,3.6100
+2023-01-22,East of England,COVID-19,5.6300
+2023-01-22,East of England,influenza,13.2400
+2023-01-22,East of England,RSV,3.8800
+2023-01-22,England,COVID-19,6.2400
+2023-01-22,England,influenza,12.7900
+2023-01-22,England,RSV,4.0700
+2023-01-22,London,COVID-19,5.9300
+2023-01-22,London,influenza,10.6000
+2023-01-22,London,RSV,4.2700
+2023-01-22,North East,COVID-19,5.7800
+2023-01-22,North East,influenza,10.5500
+2023-01-22,North East,RSV,3.9000
+2023-01-22,North West,COVID-19,7.2400
+2023-01-22,North West,influenza,10.2700
+2023-01-22,North West,RSV,3.6700
+2023-01-22,South East,COVID-19,6.7400
+2023-01-22,South East,influenza,13.5000
+2023-01-22,South East,RSV,4.1700
+2023-01-22,South West,COVID-19,6.1700
+2023-01-22,South West,influenza,12.3300
+2023-01-22,South West,RSV,4.6200
+2023-01-22,West Midlands,COVID-19,6.5100
+2023-01-22,West Midlands,influenza,12.2000
+2023-01-22,West Midlands,RSV,3.6000
+2023-01-22,Yorkshire and The Humber,COVID-19,5.2300
+2023-01-22,Yorkshire and The Humber,influenza,8.8800
+2023-01-22,Yorkshire and The Humber,RSV,4.0400
+2023-01-29,East Midlands,COVID-19,7.5000
+2023-01-29,East Midlands,influenza,11.1100
+2023-01-29,East Midlands,RSV,3.1800
+2023-01-29,East of England,COVID-19,6.7800
+2023-01-29,East of England,influenza,12.3900
+2023-01-29,East of England,RSV,3.6100
+2023-01-29,England,COVID-19,5.9000
+2023-01-29,England,influenza,10.4400
+2023-01-29,England,RSV,4.5800
+2023-01-29,London,COVID-19,5.0500
+2023-01-29,London,influenza,11.9400
+2023-01-29,London,RSV,3.7800
+2023-01-29,North East,COVID-19,4.8800
+2023-01-29,North East,influenza,11.2800
+2023-01-29,North East,RSV,3.7600
+2023-01-29,North West,COVID-19,5.9800
+2023-01-29,North West,influenza,11.9500
+2023-01-29,North West,RSV,3.5000
+2023-01-29,South East,COVID-19,5.7100
+2023-01-29,South East,influenza,9.0800
+2023-01-29,South East,RSV,4.4800
+2023-01-29,South West,COVID-19,5.0700
+2023-01-29,South West,influenza,10.2000
+2023-01-29,South West,RSV,4.3700
+2023-01-29,West Midlands,COVID-19,5.7100
+2023-01-29,West Midlands,influenza,10.6700
+2023-01-29,West Midlands,RSV,3.6600
+2023-01-29,Yorkshire and The Humber,COVID-19,4.8000
+2023-01-29,Yorkshire and The Humber,influenza,11.1300
+2023-01-29,Yorkshire and The Humber,RSV,4.6100
+2023-02-05,East Midlands,COVID-19,4.7600
+2023-02-05,East Midlands,influenza,10.1200
+2023-02-05,East Midlands,RSV,3.5400
+2023-02-05,East of England,COVID-19,5.1300
+2023-02-05,East of England,influenza,9.7600
+2023-02-05,East of England,RSV,3.6500
+2023-02-05,England,COVID-19,6.0700
+2023-02-05,England,influenza,9.4600
+2023-02-05,England,RSV,3.6700
+2023-02-05,London,COVID-19,5.8800
+2023-02-05,London,influenza,9.4600
+2023-02-05,London,RSV,2.6000
+2023-02-05,North East,COVID-19,5.3500
+2023-02-05,North East,influenza,8.6200
+2023-02-05,North East,RSV,3.2300
+2023-02-05,North West,COVID-19,5.8900
+2023-02-05,North West,influenza,9.9000
+2023-02-05,North West,RSV,3.8500
+2023-02-05,South East,COVID-19,4.6500
+2023-02-05,South East,influenza,10.6100
+2023-02-05,South East,RSV,3.1600
+2023-02-05,South West,COVID-19,4.2600
+2023-02-05,South West,influenza,8.1100
+2023-02-05,South West,RSV,2.9000
+2023-02-05,West Midlands,COVID-19,5.4300
+2023-02-05,West Midlands,influenza,9.4600
+2023-02-05,West Midlands,RSV,2.7400
+2023-02-05,Yorkshire and The Humber,COVID-19,4.1200
+2023-02-05,Yorkshire and The Humber,influenza,11.2800
+2023-02-05,Yorkshire and The Humber,RSV,3.1300
+2023-02-12,East Midlands,COVID-19,6.2700
+2023-02-12,East Midlands,influenza,11.0000
+2023-02-12,East Midlands,RSV,2.5700
+2023-02-12,East of England,COVID-19,4.6300
+2023-02-12,East of England,influenza,7.4600
+2023-02-12,East of England,RSV,2.7000
+2023-02-12,England,COVID-19,5.3800
+2023-02-12,England,influenza,9.9100
+2023-02-12,England,RSV,2.8000
+2023-02-12,London,COVID-19,5.1000
+2023-02-12,London,influenza,6.0200
+2023-02-12,London,RSV,3.2800
+2023-02-12,North East,COVID-19,5.5900
+2023-02-12,North East,influenza,8.5200
+2023-02-12,North East,RSV,3.6200
+2023-02-12,North West,COVID-19,4.1600
+2023-02-12,North West,influenza,8.1200
+2023-02-12,North West,RSV,3.9900
+2023-02-12,South East,COVID-19,6.5200
+2023-02-12,South East,influenza,6.6900
+2023-02-12,South East,RSV,2.6500
+2023-02-12,South West,COVID-19,5.5900
+2023-02-12,South West,influenza,7.9600
+2023-02-12,South West,RSV,3.6800
+2023-02-12,West Midlands,COVID-19,4.9600
+2023-02-12,West Midlands,influenza,8.5100
+2023-02-12,West Midlands,RSV,3.9400
+2023-02-12,Yorkshire and The Humber,COVID-19,4.0700
+2023-02-12,Yorkshire and The Humber,influenza,8.0400
+2023-02-12,Yorkshire and The Humber,RSV,2.3100
+2023-02-19,East Midlands,COVID-19,5.5700
+2023-02-19,East Midlands,influenza,7.6000
+2023-02-19,East Midlands,RSV,2.7900
+2023-02-19,East of England,COVID-19,5.0100
+2023-02-19,East of England,influenza,7.6000
+2023-02-19,East of England,RSV,2.5400
+2023-02-19,England,COVID-19,5.6200
+2023-02-19,England,influenza,8.2500
+2023-02-19,England,RSV,2.7100
+2023-02-19,London,COVID-19,4.2600
+2023-02-19,London,influenza,7.3300
+2023-02-19,London,RSV,2.2800
+2023-02-19,North East,COVID-19,3.9800
+2023-02-19,North East,influenza,8.6700
+2023-02-19,North East,RSV,3.1900
+2023-02-19,North West,COVID-19,4.6800
+2023-02-19,North West,influenza,8.0900
+2023-02-19,North West,RSV,2.4900
+2023-02-19,South East,COVID-19,3.5700
+2023-02-19,South East,influenza,8.2200
+2023-02-19,South East,RSV,4.0600
+2023-02-19,South West,COVID-19,6.3700
+2023-02-19,South West,influenza,9.3100
+2023-02-19,South West,RSV,2.8900
+2023-02-19,West Midlands,COVID-19,4.8100
+2023-02-19,West Midlands,influenza,6.4300
+2023-02-19,West Midlands,RSV,2.4100
+2023-02-19,Yorkshire and The Humber,COVID-19,4.3700
+2023-02-19,Yorkshire and The Humber,influenza,8.8500
+2023-02-19,Yorkshire and The Humber,RSV,2.9900
+2023-02-26,East Midlands,COVID-19,4.6800
+2023-02-26,East Midlands,influenza,5.0100
+2023-02-26,East Midlands,RSV,2.5000
+2023-02-26,East of England,COVID-19,5.1000
+2023-02-26,East of England,influenza,6.2900
+2023-02-26,East of England,RSV,2.3900
+2023-02-26,England,COVID-19,4.0500
+2023-02-26,England,influenza,6.2600
+2023-02-26,England,RSV,2.8600
+2023-02-26,London,COVID-19,5.0400
+2023-02-26,London,influenza,7.1200
+2023-02-26,London,RSV,2.0500
+2023-02-26,North East,COVID-19,5.1500
+2023-02-26,North East,influenza,5.9600
+2023-02-26,North East,RSV,2.3700
+2023-02-26,North West,COVID-19,4.6700
+2023-02-26,North West,influenza,6.3800
+2023-02-26,North West,RSV,2.5900
+2023-02-26,South East,COVID-19,4.9900
+2023-02-26,South East,influenza,7.2100
+2023-02-26,South East,RSV,2.1800
+2023-02-26,South West,COVID-19,4.8200
+2023-02-26,South West,influenza,5.2500
+2023-02-26,South West,RSV,2.8300
+2023-02-26,West Midlands,COVID-19,3.2900
+2023-02-26,West Midlands,influenza,6.8200
+2023-02-26,West Midlands,RSV,2.6100
+2023-02-26,Yorkshire and The Humber,COVID-19,4.6300
+2023-02-26,Yorkshire and The Humber,influenza,5.7900
+2023-02-26,Yorkshire and The Humber,RSV,2.1400
+2023-03-05,East Midlands,COVID-19,4.7600
+2023-03-05,East Midlands,influenza,5.5200
+2023-03-05,East Midlands,RSV,1.5600
+2023-03-05,East of England,COVID-19,5.0000
+2023-03-05,East of England,influenza,4.8000
+2023-03-05,East of England,RSV,1.9900
+2023-03-05,England,COVID-19,4.2800
+2023-03-05,England,influenza,6.0800
+2023-03-05,England,RSV,2.8600
+2023-03-05,London,COVID-19,3.3300
+2023-03-05,London,influenza,6.4200
+2023-03-05,London,RSV,2.2700
+2023-03-05,North East,COVID-19,6.0500
+2023-03-05,North East,influenza,4.9900
+2023-03-05,North East,RSV,2.1400
+2023-03-05,North West,COVID-19,4.3800
+2023-03-05,North West,influenza,5.7200
+2023-03-05,North West,RSV,2.2100
+2023-03-05,South East,COVID-19,5.1600
+2023-03-05,South East,influenza,5.7900
+2023-03-05,South East,RSV,2.7900
+2023-03-05,South West,COVID-19,4.2700
+2023-03-05,South West,influenza,5.7400
+2023-03-05,South West,RSV,2.0700
+2023-03-05,West Midlands,COVID-19,4.4700
+2023-03-05,West Midlands,influenza,6.1100
+2023-03-05,West Midlands,RSV,2.4300
+2023-03-05,Yorkshire and The Humber,COVID-19,4.7300
+2023-03-05,Yorkshire and The Humber,influenza,4.6400
+2023-03-05,Yorkshire and The Humber,RSV,1.7400
+2023-03-12,East Midlands,COVID-19,3.6300
+2023-03-12,East Midlands,influenza,5.8000
+2023-03-12,East Midlands,RSV,1.7300
+2023-03-12,East of England,COVID-19,3.1300
+2023-03-12,East of England,influenza,3.8400
+2023-03-12,East of England,RSV,1.3000
+2023-03-12,England,COVID-19,3.9400
+2023-03-12,England,influenza,4.3200
+2023-03-12,England,RSV,1.4500
+2023-03-12,London,COVID-19,3.6700
+2023-03-12,London,influenza,4.7300
+2023-03-12,London,RSV,1.8100
+2023-03-12,North East,COVID-19,3.6400
+2023-03-12,North East,influenza,3.4000
+2023-03-12,North East,RSV,2.0300
+2023-03-12,North West,COVID-19,4.1100
+2023-03-12,North West,influenza,4.8400
+2023-03-12,North West,RSV,1.6100
+2023-03-12,South East,COVID-19,4.3100
+2023-03-12,South East,influenza,5.0100
+2023-03-12,South East,RSV,2.5100
+2023-03-12,South West,COVID-19,4.6500
+2023-03-12,South West,influenza,4.5200
+2023-03-12,South West,RSV,1.8300
+2023-03-12,West Midlands,COVID-19,3.5200
+2023-03-12,West Midlands,influenza,6.0100
+2023-03-12,West Midlands,RSV,1.6400
+2023-03-12,Yorkshire and The Humber,COVID-19,3.2700
+2023-03-12,Yorkshire and The Humber,influenza,4.1600
+2023-03-12,Yorkshire and The Humber,RSV,1.4400
+2023-03-19,East Midlands,COVID-19,2.6100
+2023-03-19,East Midlands,influenza,4.4500
+2023-03-19,East Midlands,RSV,1.0400
+2023-03-19,East of England,COVID-19,3.5200
+2023-03-19,East of England,influenza,3.7000
+2023-03-19,East of England,RSV,1.4100
+2023-03-19,England,COVID-19,3.0600
+2023-03-19,England,influenza,3.4200
+2023-03-19,England,RSV,1.0700
+2023-03-19,London,COVID-19,3.7200
+2023-03-19,London,influenza,4.7000
+2023-03-19,London,RSV,1.6400
+2023-03-19,North East,COVID-19,3.3600
+2023-03-19,North East,influenza,2.2000
+2023-03-19,North East,RSV,1.8200
+2023-03-19,North West,COVID-19,3.2400
+2023-03-19,North West,influenza,3.2400
+2023-03-19,North West,RSV,1.3100
+2023-03-19,South East,COVID-19,3.0900
+2023-03-19,South East,influenza,4.5900
+2023-03-19,South East,RSV,1.7400
+2023-03-19,South West,COVID-19,3.9300
+2023-03-19,South West,influenza,3.5000
+2023-03-19,South West,RSV,1.6400
+2023-03-19,West Midlands,COVID-19,3.3200
+2023-03-19,West Midlands,influenza,3.3500
+2023-03-19,West Midlands,RSV,1.9500
+2023-03-19,Yorkshire and The Humber,COVID-19,3.1800
+2023-03-19,Yorkshire and The Humber,influenza,1.6900
+2023-03-19,Yorkshire and The Humber,RSV,2.0100
+2023-03-26,East Midlands,COVID-19,3.1100
+2023-03-26,East Midlands,influenza,1.9600
+2023-03-26,East Midlands,RSV,1.0100
+2023-03-26,East of England,COVID-19,3.0500
+2023-03-26,East of England,influenza,3.3300
+2023-03-26,East of England,RSV,1.1900
+2023-03-26,England,COVID-19,3.7900
+2023-03-26,England,influenza,3.1400
+2023-03-26,England,RSV,1.9200
+2023-03-26,London,COVID-19,2.2800
+2023-03-26,London,influenza,3.2400
+2023-03-26,London,RSV,1.3600
+2023-03-26,North East,COVID-19,3.0700
+2023-03-26,North East,influenza,2.8400
+2023-03-26,North East,RSV,1.0000
+2023-03-26,North West,COVID-19,2.5800
+2023-03-26,North West,influenza,2.5800
+2023-03-26,North West,RSV,1.2500
+2023-03-26,South East,COVID-19,3.1400
+2023-03-26,South East,influenza,.5300
+2023-03-26,South East,RSV,.9200
+2023-03-26,South West,COVID-19,3.6600
+2023-03-26,South West,influenza,4.1500
+2023-03-26,South West,RSV,1.3800
+2023-03-26,West Midlands,COVID-19,3.8100
+2023-03-26,West Midlands,influenza,2.8600
+2023-03-26,West Midlands,RSV,1.2100
+2023-03-26,Yorkshire and The Humber,COVID-19,4.1800
+2023-03-26,Yorkshire and The Humber,influenza,3.3300
+2023-03-26,Yorkshire and The Humber,RSV,1.5400
+2023-04-02,East Midlands,COVID-19,3.7800
+2023-04-02,East Midlands,influenza,.3500
+2023-04-02,East Midlands,RSV,.2600
+2023-04-02,East of England,COVID-19,2.2900
+2023-04-02,East of England,influenza,2.0200
+2023-04-02,East of England,RSV,.7600
+2023-04-02,England,COVID-19,4.2200
+2023-04-02,England,influenza,.6500
+2023-04-02,England,RSV,1.2200
+2023-04-02,London,COVID-19,2.0200
+2023-04-02,London,influenza,1.7100
+2023-04-02,London,RSV,1.7400
+2023-04-02,North East,COVID-19,3.0300
+2023-04-02,North East,influenza,1.7700
+2023-04-02,North East,RSV,1.1900
+2023-04-02,North West,COVID-19,3.6400
+2023-04-02,North West,influenza,3.6000
+2023-04-02,North West,RSV,1.0600
+2023-04-02,South East,COVID-19,2.3500
+2023-04-02,South East,influenza,2.4500
+2023-04-02,South East,RSV,1.1600
+2023-04-02,South West,COVID-19,2.9000
+2023-04-02,South West,influenza,1.5500
+2023-04-02,South West,RSV,1.2300
+2023-04-02,West Midlands,COVID-19,2.8000
+2023-04-02,West Midlands,influenza,1.0600
+2023-04-02,West Midlands,RSV,1.4000
+2023-04-02,Yorkshire and The Humber,COVID-19,2.7900
+2023-04-02,Yorkshire and The Humber,influenza,1.0000
+2023-04-02,Yorkshire and The Humber,RSV,1.1800
+2023-04-09,East Midlands,COVID-19,2.8700
+2023-04-09,East Midlands,influenza,1.5200
+2023-04-09,East Midlands,RSV,1.2500
+2023-04-09,East of England,COVID-19,2.6100
+2023-04-09,East of England,influenza,1.5900
+2023-04-09,East of England,RSV,1.4200
+2023-04-09,England,COVID-19,2.8200
+2023-04-09,England,influenza,.1100
+2023-04-09,England,RSV,.6200
+2023-04-09,London,COVID-19,2.1300
+2023-04-09,London,influenza,.0700
+2023-04-09,London,RSV,1.1700
+2023-04-09,North East,COVID-19,2.8000
+2023-04-09,North East,influenza,1.2700
+2023-04-09,North East,RSV,1.2500
+2023-04-09,North West,COVID-19,4.4900
+2023-04-09,North West,influenza,1.7300
+2023-04-09,North West,RSV,.8600
+2023-04-09,South East,COVID-19,2.7600
+2023-04-09,South East,influenza,2.3900
+2023-04-09,South East,RSV,.6600
+2023-04-09,South West,COVID-19,2.0500
+2023-04-09,South West,influenza,1.5400
+2023-04-09,South West,RSV,.5400
+2023-04-09,West Midlands,COVID-19,2.5900
+2023-04-09,West Midlands,influenza,.8900
+2023-04-09,West Midlands,RSV,.7800
+2023-04-09,Yorkshire and The Humber,COVID-19,2.3600
+2023-04-09,Yorkshire and The Humber,influenza,.6900
+2023-04-09,Yorkshire and The Humber,RSV,1.2500
+2023-04-16,East Midlands,COVID-19,3.0400
+2023-04-16,East Midlands,influenza,.3700
+2023-04-16,East Midlands,RSV,.7100
+2023-04-16,East of England,COVID-19,2.6800
+2023-04-16,East of England,influenza,1.3000
+2023-04-16,East of England,RSV,.2000
+2023-04-16,England,COVID-19,2.8900
+2023-04-16,England,influenza,.4500
+2023-04-16,England,RSV,.8500
+2023-04-16,London,COVID-19,2.4500
+2023-04-16,London,influenza,2.3500
+2023-04-16,London,RSV,.2500
+2023-04-16,North East,COVID-19,2.5600
+2023-04-16,North East,influenza,.9500
+2023-04-16,North East,RSV,.6700
+2023-04-16,North West,COVID-19,2.7300
+2023-04-16,North West,influenza,.8300
+2023-04-16,North West,RSV,.0900
+2023-04-16,South East,COVID-19,2.8500
+2023-04-16,South East,influenza,.1100
+2023-04-16,South East,RSV,.8300
+2023-04-16,South West,COVID-19,3.3200
+2023-04-16,South West,influenza,1.5100
+2023-04-16,South West,RSV,1.0000
+2023-04-16,West Midlands,COVID-19,3.2400
+2023-04-16,West Midlands,influenza,.3400
+2023-04-16,West Midlands,RSV,.6200
+2023-04-16,Yorkshire and The Humber,COVID-19,2.3800
+2023-04-16,Yorkshire and The Humber,influenza,1.4400
+2023-04-16,Yorkshire and The Humber,RSV,.4100
+2023-04-23,East Midlands,COVID-19,3.4700
+2023-04-23,East Midlands,influenza,.9600
+2023-04-23,East Midlands,RSV,.6800
+2023-04-23,East of England,COVID-19,2.6300
+2023-04-23,East of England,influenza,.0800
+2023-04-23,East of England,RSV,.3300
+2023-04-23,England,COVID-19,2.5100
+2023-04-23,England,influenza,.1000
+2023-04-23,England,RSV,.1000
+2023-04-23,London,COVID-19,2.3400
+2023-04-23,London,influenza,1.4400
+2023-04-23,London,RSV,.3800
+2023-04-23,North East,COVID-19,1.7300
+2023-04-23,North East,influenza,1.6500
+2023-04-23,North East,RSV,.0800
+2023-04-23,North West,COVID-19,2.1300
+2023-04-23,North West,influenza,.1000
+2023-04-23,North West,RSV,.7400
+2023-04-23,South East,COVID-19,2.8900
+2023-04-23,South East,influenza,.6700
+2023-04-23,South East,RSV,.9000
+2023-04-23,South West,COVID-19,2.4800
+2023-04-23,South West,influenza,.0800
+2023-04-23,South West,RSV,.4300
+2023-04-23,West Midlands,COVID-19,2.7200
+2023-04-23,West Midlands,influenza,.5300
+2023-04-23,West Midlands,RSV,.5000
+2023-04-23,Yorkshire and The Humber,COVID-19,3.0300
+2023-04-23,Yorkshire and The Humber,influenza,1.5000
+2023-04-23,Yorkshire and The Humber,RSV,.6100
+2023-04-30,East Midlands,COVID-19,2.6800
+2023-04-30,East Midlands,influenza,.0700
+2023-04-30,East Midlands,RSV,.2900
+2023-04-30,East of England,COVID-19,2.8300
+2023-04-30,East of England,influenza,1.0100
+2023-04-30,East of England,RSV,.3700
+2023-04-30,England,COVID-19,1.9900
+2023-04-30,England,influenza,.2900
+2023-04-30,England,RSV,.4100
+2023-04-30,London,COVID-19,1.4300
+2023-04-30,London,influenza,.0800
+2023-04-30,London,RSV,.6500
+2023-04-30,North East,COVID-19,2.8400
+2023-04-30,North East,influenza,.2100
+2023-04-30,North East,RSV,.7500
+2023-04-30,North West,COVID-19,2.4000
+2023-04-30,North West,influenza,.0800
+2023-04-30,North West,RSV,.7000
+2023-04-30,South East,COVID-19,1.3700
+2023-04-30,South East,influenza,.0500
+2023-04-30,South East,RSV,.1000
+2023-04-30,South West,COVID-19,2.4600
+2023-04-30,South West,influenza,1.8900
+2023-04-30,South West,RSV,.2200
+2023-04-30,West Midlands,COVID-19,1.9000
+2023-04-30,West Midlands,influenza,.4200
+2023-04-30,West Midlands,RSV,.6700
+2023-04-30,Yorkshire and The Humber,COVID-19,2.4300
+2023-04-30,Yorkshire and The Humber,influenza,.0700
+2023-04-30,Yorkshire and The Humber,RSV,.3900
+2023-05-07,East Midlands,COVID-19,4.1400
+2023-05-07,East Midlands,influenza,.0700
+2023-05-07,East Midlands,RSV,.2800
+2023-05-07,East of England,COVID-19,2.3000
+2023-05-07,East of England,influenza,.0900
+2023-05-07,East of England,RSV,.8200
+2023-05-07,England,COVID-19,1.3500
+2023-05-07,England,influenza,.1000
+2023-05-07,England,RSV,.4200
+2023-05-07,London,COVID-19,2.4200
+2023-05-07,London,influenza,.1000
+2023-05-07,London,RSV,.0500
+2023-05-07,North East,COVID-19,2.3200
+2023-05-07,North East,influenza,.4400
+2023-05-07,North East,RSV,.3800
+2023-05-07,North West,COVID-19,2.1200
+2023-05-07,North West,influenza,.1000
+2023-05-07,North West,RSV,.0900
+2023-05-07,South East,COVID-19,2.3900
+2023-05-07,South East,influenza,.0800
+2023-05-07,South East,RSV,.1300
+2023-05-07,South West,COVID-19,2.0800
+2023-05-07,South West,influenza,2.4100
+2023-05-07,South West,RSV,.5300
+2023-05-07,West Midlands,COVID-19,2.4500
+2023-05-07,West Midlands,influenza,.0800
+2023-05-07,West Midlands,RSV,.0800
+2023-05-07,Yorkshire and The Humber,COVID-19,1.5600
+2023-05-07,Yorkshire and The Humber,influenza,.1000
+2023-05-07,Yorkshire and The Humber,RSV,.0800
+2023-05-14,East Midlands,COVID-19,1.6800
+2023-05-14,East Midlands,influenza,.0600
+2023-05-14,East Midlands,RSV,.1300
+2023-05-14,East of England,COVID-19,2.6900
+2023-05-14,East of England,influenza,.0900
+2023-05-14,East of England,RSV,.4800
+2023-05-14,England,COVID-19,1.8600
+2023-05-14,England,influenza,.1000
+2023-05-14,England,RSV,.5600
+2023-05-14,London,COVID-19,1.8100
+2023-05-14,London,influenza,.0700
+2023-05-14,London,RSV,.1200
+2023-05-14,North East,COVID-19,2.1900
+2023-05-14,North East,influenza,.0700
+2023-05-14,North East,RSV,.0400
+2023-05-14,North West,COVID-19,3.1000
+2023-05-14,North West,influenza,.7100
+2023-05-14,North West,RSV,.9300
+2023-05-14,South East,COVID-19,2.2300
+2023-05-14,South East,influenza,.0800
+2023-05-14,South East,RSV,.1400
+2023-05-14,South West,COVID-19,2.7300
+2023-05-14,South West,influenza,.1000
+2023-05-14,South West,RSV,.5100
+2023-05-14,West Midlands,COVID-19,1.6800
+2023-05-14,West Midlands,influenza,.3600
+2023-05-14,West Midlands,RSV,.0400
+2023-05-14,Yorkshire and The Humber,COVID-19,2.8900
+2023-05-14,Yorkshire and The Humber,influenza,.1800
+2023-05-14,Yorkshire and The Humber,RSV,.4800
+2023-05-21,East Midlands,COVID-19,2.1900
+2023-05-21,East Midlands,influenza,.0700
+2023-05-21,East Midlands,RSV,.2500
+2023-05-21,East of England,COVID-19,2.0800
+2023-05-21,East of England,influenza,.4700
+2023-05-21,East of England,RSV,.1000
+2023-05-21,England,COVID-19,1.5100
+2023-05-21,England,influenza,.7800
+2023-05-21,England,RSV,.1000
+2023-05-21,London,COVID-19,2.3400
+2023-05-21,London,influenza,.9000
+2023-05-21,London,RSV,.0700
+2023-05-21,North East,COVID-19,3.3300
+2023-05-21,North East,influenza,.0900
+2023-05-21,North East,RSV,.1900
+2023-05-21,North West,COVID-19,1.2200
+2023-05-21,North West,influenza,.5300
+2023-05-21,North West,RSV,.5200
+2023-05-21,South East,COVID-19,2.3200
+2023-05-21,South East,influenza,.0600
+2023-05-21,South East,RSV,.0900
+2023-05-21,South West,COVID-19,2.2800
+2023-05-21,South West,influenza,1.1900
+2023-05-21,South West,RSV,.7600
+2023-05-21,West Midlands,COVID-19,2.0700
+2023-05-21,West Midlands,influenza,1.3500
+2023-05-21,West Midlands,RSV,.0800
+2023-05-21,Yorkshire and The Humber,COVID-19,1.8600
+2023-05-21,Yorkshire and The Humber,influenza,.0700
+2023-05-21,Yorkshire and The Humber,RSV,.1600
+2023-05-28,East Midlands,COVID-19,1.3700
+2023-05-28,East Midlands,influenza,.7500
+2023-05-28,East Midlands,RSV,.3500
+2023-05-28,East of England,COVID-19,3.3000
+2023-05-28,East of England,influenza,.1200
+2023-05-28,East of England,RSV,.5400
+2023-05-28,England,COVID-19,3.0900
+2023-05-28,England,influenza,.1000
+2023-05-28,England,RSV,.3300
+2023-05-28,London,COVID-19,2.2300
+2023-05-28,London,influenza,.0600
+2023-05-28,London,RSV,.0700
+2023-05-28,North East,COVID-19,2.4400
+2023-05-28,North East,influenza,.0400
+2023-05-28,North East,RSV,.4900
+2023-05-28,North West,COVID-19,2.4500
+2023-05-28,North West,influenza,.0700
+2023-05-28,North West,RSV,.0600
+2023-05-28,South East,COVID-19,1.9300
+2023-05-28,South East,influenza,.0800
+2023-05-28,South East,RSV,.7700
+2023-05-28,South West,COVID-19,2.5200
+2023-05-28,South West,influenza,.3500
+2023-05-28,South West,RSV,.6000
+2023-05-28,West Midlands,COVID-19,2.3800
+2023-05-28,West Midlands,influenza,.0900
+2023-05-28,West Midlands,RSV,.0900
+2023-05-28,Yorkshire and The Humber,COVID-19,2.1200
+2023-05-28,Yorkshire and The Humber,influenza,.1200
+2023-05-28,Yorkshire and The Humber,RSV,.0800
+2023-06-04,East Midlands,COVID-19,1.5600
+2023-06-04,East Midlands,influenza,.2000
+2023-06-04,East Midlands,RSV,.5300
+2023-06-04,East of England,COVID-19,2.3500
+2023-06-04,East of England,influenza,.0900
+2023-06-04,East of England,RSV,.3600
+2023-06-04,England,COVID-19,2.2500
+2023-06-04,England,influenza,.1000
+2023-06-04,England,RSV,.1000
+2023-06-04,London,COVID-19,1.2200
+2023-06-04,London,influenza,.0800
+2023-06-04,London,RSV,.5700
+2023-06-04,North East,COVID-19,2.1500
+2023-06-04,North East,influenza,.1000
+2023-06-04,North East,RSV,.0900
+2023-06-04,North West,COVID-19,2.6900
+2023-06-04,North West,influenza,.3800
+2023-06-04,North West,RSV,.8100
+2023-06-04,South East,COVID-19,1.7500
+2023-06-04,South East,influenza,.0700
+2023-06-04,South East,RSV,.4200
+2023-06-04,South West,COVID-19,1.4100
+2023-06-04,South West,influenza,.1000
+2023-06-04,South West,RSV,.5800
+2023-06-04,West Midlands,COVID-19,2.6800
+2023-06-04,West Midlands,influenza,1.4600
+2023-06-04,West Midlands,RSV,.0600
+2023-06-04,Yorkshire and The Humber,COVID-19,3.0400
+2023-06-04,Yorkshire and The Humber,influenza,.0600
+2023-06-04,Yorkshire and The Humber,RSV,.9800
+2023-06-11,East Midlands,COVID-19,1.9300
+2023-06-11,East Midlands,influenza,.6300
+2023-06-11,East Midlands,RSV,.3000
+2023-06-11,East of England,COVID-19,3.3700
+2023-06-11,East of England,influenza,.0900
+2023-06-11,East of England,RSV,.8100
+2023-06-11,England,COVID-19,2.2500
+2023-06-11,England,influenza,.1000
+2023-06-11,England,RSV,.5600
+2023-06-11,London,COVID-19,2.7000
+2023-06-11,London,influenza,.0700
+2023-06-11,London,RSV,.5800
+2023-06-11,North East,COVID-19,2.4500
+2023-06-11,North East,influenza,.0800
+2023-06-11,North East,RSV,.6000
+2023-06-11,North West,COVID-19,1.5800
+2023-06-11,North West,influenza,1.0700
+2023-06-11,North West,RSV,.3700
+2023-06-11,South East,COVID-19,2.6900
+2023-06-11,South East,influenza,.0700
+2023-06-11,South East,RSV,.1600
+2023-06-11,South West,COVID-19,2.3600
+2023-06-11,South West,influenza,.6000
+2023-06-11,South West,RSV,.2400
+2023-06-11,West Midlands,COVID-19,1.7500
+2023-06-11,West Midlands,influenza,.5700
+2023-06-11,West Midlands,RSV,.3800
+2023-06-11,Yorkshire and The Humber,COVID-19,2.8900
+2023-06-11,Yorkshire and The Humber,influenza,.5900
+2023-06-11,Yorkshire and The Humber,RSV,.5300
+2023-06-18,East Midlands,COVID-19,2.5500
+2023-06-18,East Midlands,influenza,.8500
+2023-06-18,East Midlands,RSV,.6100
+2023-06-18,East of England,COVID-19,2.9800
+2023-06-18,East of England,influenza,.0700
+2023-06-18,East of England,RSV,.6700
+2023-06-18,England,COVID-19,3.0200
+2023-06-18,England,influenza,.2800
+2023-06-18,England,RSV,.3600
+2023-06-18,London,COVID-19,2.2200
+2023-06-18,London,influenza,.6200
+2023-06-18,London,RSV,.6700
+2023-06-18,North East,COVID-19,2.0400
+2023-06-18,North East,influenza,1.3600
+2023-06-18,North East,RSV,.9800
+2023-06-18,North West,COVID-19,1.6400
+2023-06-18,North West,influenza,1.5000
+2023-06-18,North West,RSV,.0700
+2023-06-18,South East,COVID-19,3.3300
+2023-06-18,South East,influenza,1.0700
+2023-06-18,South East,RSV,.8600
+2023-06-18,South West,COVID-19,2.5400
+2023-06-18,South West,influenza,1.3100
+2023-06-18,South West,RSV,.2400
+2023-06-18,West Midlands,COVID-19,1.9500
+2023-06-18,West Midlands,influenza,2.3200
+2023-06-18,West Midlands,RSV,.5400
+2023-06-18,Yorkshire and The Humber,COVID-19,2.4100
+2023-06-18,Yorkshire and The Humber,influenza,.0800
+2023-06-18,Yorkshire and The Humber,RSV,.7000
+2023-06-25,East Midlands,COVID-19,2.0900
+2023-06-25,East Midlands,influenza,1.5200
+2023-06-25,East Midlands,RSV,.7900
+2023-06-25,East of England,COVID-19,2.5600
+2023-06-25,East of England,influenza,.9500
+2023-06-25,East of England,RSV,1.5700
+2023-06-25,England,COVID-19,2.2000
+2023-06-25,England,influenza,1.3600
+2023-06-25,England,RSV,.6900
+2023-06-25,London,COVID-19,2.8600
+2023-06-25,London,influenza,1.0300
+2023-06-25,London,RSV,.7800
+2023-06-25,North East,COVID-19,2.1900
+2023-06-25,North East,influenza,2.0900
+2023-06-25,North East,RSV,.8100
+2023-06-25,North West,COVID-19,1.3100
+2023-06-25,North West,influenza,.0900
+2023-06-25,North West,RSV,.6600
+2023-06-25,South East,COVID-19,2.8600
+2023-06-25,South East,influenza,1.6600
+2023-06-25,South East,RSV,.8800
+2023-06-25,South West,COVID-19,2.1700
+2023-06-25,South West,influenza,.4200
+2023-06-25,South West,RSV,.9400
+2023-06-25,West Midlands,COVID-19,3.7600
+2023-06-25,West Midlands,influenza,.7400
+2023-06-25,West Midlands,RSV,.7400
+2023-06-25,Yorkshire and The Humber,COVID-19,3.2400
+2023-06-25,Yorkshire and The Humber,influenza,.6200
+2023-06-25,Yorkshire and The Humber,RSV,.3000
+2023-07-02,East Midlands,COVID-19,3.5800
+2023-07-02,East Midlands,influenza,1.3400
+2023-07-02,East Midlands,RSV,1.4000
+2023-07-02,East of England,COVID-19,2.6900
+2023-07-02,East of England,influenza,3.6600
+2023-07-02,East of England,RSV,.9300
+2023-07-02,England,COVID-19,2.5900
+2023-07-02,England,influenza,1.0000
+2023-07-02,England,RSV,.7300
+2023-07-02,London,COVID-19,3.6300
+2023-07-02,London,influenza,1.1900
+2023-07-02,London,RSV,.9600
+2023-07-02,North East,COVID-19,2.4800
+2023-07-02,North East,influenza,2.0900
+2023-07-02,North East,RSV,.9800
+2023-07-02,North West,COVID-19,2.9400
+2023-07-02,North West,influenza,3.2400
+2023-07-02,North West,RSV,1.4000
+2023-07-02,South East,COVID-19,2.3200
+2023-07-02,South East,influenza,2.0300
+2023-07-02,South East,RSV,1.1600
+2023-07-02,South West,COVID-19,3.4800
+2023-07-02,South West,influenza,1.2900
+2023-07-02,South West,RSV,.8500
+2023-07-02,West Midlands,COVID-19,3.3100
+2023-07-02,West Midlands,influenza,1.0900
+2023-07-02,West Midlands,RSV,.6500
+2023-07-02,Yorkshire and The Humber,COVID-19,3.1400
+2023-07-02,Yorkshire and The Humber,influenza,.7500
+2023-07-02,Yorkshire and The Humber,RSV,1.4300
+2023-07-09,East Midlands,COVID-19,3.8300
+2023-07-09,East Midlands,influenza,4.1800
+2023-07-09,East Midlands,RSV,.4900
+2023-07-09,East of England,COVID-19,2.2800
+2023-07-09,East of England,influenza,3.0500
+2023-07-09,East of England,RSV,1.1000
+2023-07-09,England,COVID-19,3.2500
+2023-07-09,England,influenza,2.9600
+2023-07-09,England,RSV,1.4600
+2023-07-09,London,COVID-19,2.6500
+2023-07-09,London,influenza,2.6200
+2023-07-09,London,RSV,.9300
+2023-07-09,North East,COVID-19,2.9300
+2023-07-09,North East,influenza,1.8500
+2023-07-09,North East,RSV,1.6500
+2023-07-09,North West,COVID-19,3.6500
+2023-07-09,North West,influenza,3.2000
+2023-07-09,North West,RSV,1.5000
+2023-07-09,South East,COVID-19,3.2100
+2023-07-09,South East,influenza,2.3700
+2023-07-09,South East,RSV,.5800
+2023-07-09,South West,COVID-19,2.6100
+2023-07-09,South West,influenza,1.6300
+2023-07-09,South West,RSV,.8000
+2023-07-09,West Midlands,COVID-19,2.3000
+2023-07-09,West Midlands,influenza,3.0000
+2023-07-09,West Midlands,RSV,1.5200
+2023-07-09,Yorkshire and The Humber,COVID-19,3.8300
+2023-07-09,Yorkshire and The Humber,influenza,1.1300
+2023-07-09,Yorkshire and The Humber,RSV,1.5200
+2023-07-16,East Midlands,COVID-19,3.5400
+2023-07-16,East Midlands,influenza,4.0500
+2023-07-16,East Midlands,RSV,1.0400
+2023-07-16,East of England,COVID-19,3.2500
+2023-07-16,East of England,influenza,4.2700
+2023-07-16,East of England,RSV,2.2500
+2023-07-16,England,COVID-19,4.0100
+2023-07-16,England,influenza,3.0000
+2023-07-16,England,RSV,1.7900
+2023-07-16,London,COVID-19,3.1000
+2023-07-16,London,influenza,3.7500
+2023-07-16,London,RSV,1.9900
+2023-07-16,North East,COVID-19,3.4300
+2023-07-16,North East,influenza,2.9600
+2023-07-16,North East,RSV,1.0900
+2023-07-16,North West,COVID-19,3.5600
+2023-07-16,North West,influenza,2.5000
+2023-07-16,North West,RSV,1.8500
+2023-07-16,South East,COVID-19,3.3400
+2023-07-16,South East,influenza,4.6800
+2023-07-16,South East,RSV,1.5700
+2023-07-16,South West,COVID-19,3.7000
+2023-07-16,South West,influenza,3.7800
+2023-07-16,South West,RSV,1.3900
+2023-07-16,West Midlands,COVID-19,3.8200
+2023-07-16,West Midlands,influenza,2.0500
+2023-07-16,West Midlands,RSV,2.1700
+2023-07-16,Yorkshire and The Humber,COVID-19,2.8400
+2023-07-16,Yorkshire and The Humber,influenza,4.1300
+2023-07-16,Yorkshire and The Humber,RSV,1.0200
+2023-07-23,East Midlands,COVID-19,3.2400
+2023-07-23,East Midlands,influenza,3.1700
+2023-07-23,East Midlands,RSV,2.6500
+2023-07-23,East of England,COVID-19,4.2900
+2023-07-23,East of England,influenza,4.5800
+2023-07-23,East of England,RSV,2.2500
+2023-07-23,England,COVID-19,4.0400
+2023-07-23,England,influenza,4.1300
+2023-07-23,England,RSV,1.7500
+2023-07-23,London,COVID-19,3.5200
+2023-07-23,London,influenza,5.6200
+2023-07-23,London,RSV,2.3400
+2023-07-23,North East,COVID-19,4.2800
+2023-07-23,North East,influenza,4.3500
+2023-07-23,North East,RSV,1.6300
+2023-07-23,North West,COVID-19,3.3400
+2023-07-23,North West,influenza,4.0100
+2023-07-23,North West,RSV,2.0200
+2023-07-23,South East,COVID-19,3.7700
+2023-07-23,South East,influenza,5.7800
+2023-07-23,South East,RSV,2.3200
+2023-07-23,South West,COVID-19,5.9100
+2023-07-23,South West,influenza,4.9900
+2023-07-23,South West,RSV,1.3500
+2023-07-23,West Midlands,COVID-19,3.5000
+2023-07-23,West Midlands,influenza,5.6800
+2023-07-23,West Midlands,RSV,1.8700
+2023-07-23,Yorkshire and The Humber,COVID-19,2.8400
+2023-07-23,Yorkshire and The Humber,influenza,4.8500
+2023-07-23,Yorkshire and The Humber,RSV,1.5100
+2023-07-30,East Midlands,COVID-19,4.4800
+2023-07-30,East Midlands,influenza,4.5100
+2023-07-30,East Midlands,RSV,1.9200
+2023-07-30,East of England,COVID-19,4.0600
+2023-07-30,East of England,influenza,6.4300
+2023-07-30,East of England,RSV,1.6100
+2023-07-30,England,COVID-19,4.2200
+2023-07-30,England,influenza,4.8200
+2023-07-30,England,RSV,2.1300
+2023-07-30,London,COVID-19,3.8300
+2023-07-30,London,influenza,4.5200
+2023-07-30,London,RSV,1.9200
+2023-07-30,North East,COVID-19,3.6500
+2023-07-30,North East,influenza,6.9900
+2023-07-30,North East,RSV,2.5400
+2023-07-30,North West,COVID-19,2.7700
+2023-07-30,North West,influenza,3.5800
+2023-07-30,North West,RSV,2.0400
+2023-07-30,South East,COVID-19,3.8500
+2023-07-30,South East,influenza,5.0700
+2023-07-30,South East,RSV,1.4200
+2023-07-30,South West,COVID-19,3.4800
+2023-07-30,South West,influenza,5.3300
+2023-07-30,South West,RSV,2.5400
+2023-07-30,West Midlands,COVID-19,4.6000
+2023-07-30,West Midlands,influenza,4.7300
+2023-07-30,West Midlands,RSV,2.3900
+2023-07-30,Yorkshire and The Humber,COVID-19,3.7800
+2023-07-30,Yorkshire and The Humber,influenza,4.9900
+2023-07-30,Yorkshire and The Humber,RSV,1.8900
+2023-08-06,East Midlands,COVID-19,5.0400
+2023-08-06,East Midlands,influenza,4.9500
+2023-08-06,East Midlands,RSV,1.9400
+2023-08-06,East of England,COVID-19,4.1500
+2023-08-06,East of England,influenza,6.0600
+2023-08-06,East of England,RSV,2.7800
+2023-08-06,England,COVID-19,4.4600
+2023-08-06,England,influenza,7.7600
+2023-08-06,England,RSV,2.0100
+2023-08-06,London,COVID-19,5.3600
+2023-08-06,London,influenza,5.4900
+2023-08-06,London,RSV,1.7900
+2023-08-06,North East,COVID-19,4.0700
+2023-08-06,North East,influenza,6.3900
+2023-08-06,North East,RSV,1.8200
+2023-08-06,North West,COVID-19,3.2400
+2023-08-06,North West,influenza,5.8300
+2023-08-06,North West,RSV,2.9100
+2023-08-06,South East,COVID-19,5.9900
+2023-08-06,South East,influenza,5.6600
+2023-08-06,South East,RSV,2.1000
+2023-08-06,South West,COVID-19,3.5600
+2023-08-06,South West,influenza,5.1600
+2023-08-06,South West,RSV,2.4800
+2023-08-06,West Midlands,COVID-19,5.5500
+2023-08-06,West Midlands,influenza,6.7400
+2023-08-06,West Midlands,RSV,2.1700
+2023-08-06,Yorkshire and The Humber,COVID-19,4.3200
+2023-08-06,Yorkshire and The Humber,influenza,5.8800
+2023-08-06,Yorkshire and The Humber,RSV,2.2300
+2023-08-13,East Midlands,COVID-19,4.9300
+2023-08-13,East Midlands,influenza,7.7400
+2023-08-13,East Midlands,RSV,3.1400
+2023-08-13,East of England,COVID-19,5.2200
+2023-08-13,East of England,influenza,8.6900
+2023-08-13,East of England,RSV,2.6300
+2023-08-13,England,COVID-19,4.9600
+2023-08-13,England,influenza,7.2700
+2023-08-13,England,RSV,2.6800
+2023-08-13,London,COVID-19,5.3600
+2023-08-13,London,influenza,6.5600
+2023-08-13,London,RSV,3.3500
+2023-08-13,North East,COVID-19,5.1000
+2023-08-13,North East,influenza,7.2500
+2023-08-13,North East,RSV,3.4400
+2023-08-13,North West,COVID-19,4.4900
+2023-08-13,North West,influenza,7.1000
+2023-08-13,North West,RSV,3.3800
+2023-08-13,South East,COVID-19,4.0000
+2023-08-13,South East,influenza,7.1400
+2023-08-13,South East,RSV,2.9500
+2023-08-13,South West,COVID-19,4.2500
+2023-08-13,South West,influenza,7.4900
+2023-08-13,South West,RSV,2.4000
+2023-08-13,West Midlands,COVID-19,4.5300
+2023-08-13,West Midlands,influenza,7.7600
+2023-08-13,West Midlands,RSV,2.6900
+2023-08-13,Yorkshire and The Humber,COVID-19,4.5600
+2023-08-13,Yorkshire and The Humber,influenza,6.6600
+2023-08-13,Yorkshire and The Humber,RSV,2.9600
+2023-08-20,East Midlands,COVID-19,6.6400
+2023-08-20,East Midlands,influenza,8.2200
+2023-08-20,East Midlands,RSV,3.7400
+2023-08-20,East of England,COVID-19,4.2400
+2023-08-20,East of England,influenza,6.6400
+2023-08-20,East of England,RSV,3.0200
+2023-08-20,England,COVID-19,5.2000
+2023-08-20,England,influenza,7.4400
+2023-08-20,England,RSV,3.0800
+2023-08-20,London,COVID-19,5.2600
+2023-08-20,London,influenza,8.2800
+2023-08-20,London,RSV,3.0000
+2023-08-20,North East,COVID-19,4.4500
+2023-08-20,North East,influenza,9.8800
+2023-08-20,North East,RSV,2.8900
+2023-08-20,North West,COVID-19,5.4800
+2023-08-20,North West,influenza,7.4500
+2023-08-20,North West,RSV,2.7500
+2023-08-20,South East,COVID-19,6.0900
+2023-08-20,South East,influenza,8.2700
+2023-08-20,South East,RSV,3.3500
+2023-08-20,South West,COVID-19,4.0200
+2023-08-20,South West,influenza,9.8800
+2023-08-20,South West,RSV,3.0300
+2023-08-20,West Midlands,COVID-19,4.3100
+2023-08-20,West Midlands,influenza,8.2500
+2023-08-20,West Midlands,RSV,2.3500
+2023-08-20,Yorkshire and The Humber,COVID-19,5.0200
+2023-08-20,Yorkshire and The Humber,influenza,7.5000
+2023-08-20,Yorkshire and The Humber,RSV,2.7800
+2023-08-27,East Midlands,COVID-19,5.4000
+2023-08-27,East Midlands,influenza,8.4200
+2023-08-27,East Midlands,RSV,3.3900
+2023-08-27,East of England,COVID-19,3.9200
+2023-08-27,East of England,influenza,9.6000
+2023-08-27,East of England,RSV,3.2200
+2023-08-27,England,COVID-19,4.9200
+2023-08-27,England,influenza,9.9500
+2023-08-27,England,RSV,4.2100
+2023-08-27,London,COVID-19,4.2000
+2023-08-27,London,influenza,8.0100
+2023-08-27,London,RSV,3.6800
+2023-08-27,North East,COVID-19,5.1600
+2023-08-27,North East,influenza,8.7900
+2023-08-27,North East,RSV,3.9600
+2023-08-27,North West,COVID-19,5.8400
+2023-08-27,North West,influenza,6.9300
+2023-08-27,North West,RSV,4.0900
+2023-08-27,South East,COVID-19,5.0800
+2023-08-27,South East,influenza,8.5800
+2023-08-27,South East,RSV,3.0800
+2023-08-27,South West,COVID-19,5.7400
+2023-08-27,South West,influenza,9.4100
+2023-08-27,South West,RSV,4.5700
+2023-08-27,West Midlands,COVID-19,5.2900
+2023-08-27,West Midlands,influenza,7.6400
+2023-08-27,West Midlands,RSV,3.4600
+2023-08-27,Yorkshire and The Humber,COVID-19,3.4000
+2023-08-27,Yorkshire and The Humber,influenza,11.1500
+2023-08-27,Yorkshire and The Humber,RSV,4.4800
+2023-09-03,East Midlands,COVID-19,6.7400
+2023-09-03,East Midlands,influenza,11.0400
+2023-09-03,East Midlands,RSV,3.5600
+2023-09-03,East of England,COVID-19,7.5500
+2023-09-03,East of England,influenza,8.1800
+2023-09-03,East of England,RSV,4.4800
+2023-09-03,England,COVID-19,5.7800
+2023-09-03,England,influenza,9.3100
+2023-09-03,England,RSV,3.4100
+2023-09-03,London,COVID-19,5.5300
+2023-09-03,London,influenza,8.1300
+2023-09-03,London,RSV,3.1900
+2023-09-03,North East,COVID-19,4.4600
+2023-09-03,North East,influenza,10.1300
+2023-09-03,North East,RSV,4.1500
+2023-09-03,North West,COVID-19,6.4000
+2023-09-03,North West,influenza,9.7200
+2023-09-03,North West,RSV,4.0000
+2023-09-03,South East,COVID-19,6.4300
+2023-09-03,South East,influenza,11.5700
+2023-09-03,South East,RSV,3.6900
+2023-09-03,South West,COVID-19,6.1200
+2023-09-03,South West,influenza,9.0500
+2023-09-03,South West,RSV,2.8400
+2023-09-03,West Midlands,COVID-19,5.3900
+2023-09-03,West Midlands,influenza,9.9600
+2023-09-03,West Midlands,RSV,3.3900
+2023-09-03,Yorkshire and The Humber,COVID-19,8.0500
+2023-09-03,Yorkshire and The Humber,influenza,10.6500
+2023-09-03,Yorkshire and The Humber,RSV,3.6500
+2023-09-10,East Midlands,COVID-19,6.4000
+2023-09-10,East Midlands,influenza,9.1500
+2023-09-10,East Midlands,RSV,4.8200
+2023-09-10,East of England,COVID-19,5.6400
+2023-09-10,East of England,influenza,12.2300
+2023-09-10,East of England,RSV,4.3200
+2023-09-10,England,COVID-19,5.5400
+2023-09-10,England,influenza,11.4100
+2023-09-10,England,RSV,4.4900
+2023-09-10,London,COVID-19,5.5100
+2023-09-10,London,influenza,12.1800
+2023-09-10,London,RSV,3.8000
+2023-09-10,North East,COVID-19,6.0700
+2023-09-10,North East,influenza,12.8600
+2023-09-10,North East,RSV,3.2800
+2023-09-10,North West,COVID-19,7.1100
+2023-09-10,North West,influenza,10.5100
+2023-09-10,North West,RSV,2.8400
+2023-09-10,South East,COVID-19,6.2400
+2023-09-10,South East,influenza,13.5000
+2023-09-10,South East,RSV,4.2200
+2023-09-10,South West,COVID-19,4.5100
+2023-09-10,South West,influenza,9.3900
+2023-09-10,South West,RSV,3.1100
+2023-09-10,West Midlands,COVID-19,4.5300
+2023-09-10,West Midlands,influenza,10.0800
+2023-09-10,West Midlands,RSV,3.5700
+2023-09-10,Yorkshire and The Humber,COVID-19,6.9900
+2023-09-10,Yorkshire and The Humber,influenza,11.8300
+2023-09-10,Yorkshire and The Humber,RSV,4.7000
+2023-09-17,East Midlands,COVID-19,7.9700
+2023-09-17,East Midlands,influenza,9.8800
+2023-09-17,East Midlands,RSV,4.1800
+2023-09-17,East of England,COVID-19,4.6000
+2023-09-17,East of England,influenza,11.7000
+2023-09-17,East of England,RSV,4.3400
+2023-09-17,England,COVID-19,6.4200
+2023-09-17,England,influenza,10.5800
+2023-09-17,England,RSV,4.6500
+2023-09-17,London,COVID-19,5.3600
+2023-09-17,London,influenza,11.2900
+2023-09-17,London,RSV,4.9200
+2023-09-17,North East,COVID-19,5.3000
+2023-09-17,North East,influenza,13.6500
+2023-09-17,North East,RSV,5.4000
+2023-09-17,North West,COVID-19,6.5700
+2023-09-17,North West,influenza,12.1600
+2023-09-17,North West,RSV,3.9900
+2023-09-17,South East,COVID-19,7.2200
+2023-09-17,South East,influenza,12.0200
+2023-09-17,South East,RSV,3.4000
+2023-09-17,South West,COVID-19,5.4100
+2023-09-17,South West,influenza,10.0700
+2023-09-17,South West,RSV,4.2900
+2023-09-17,West Midlands,COVID-19,7.9600
+2023-09-17,West Midlands,influenza,13.7500
+2023-09-17,West Midlands,RSV,3.5900
+2023-09-17,Yorkshire and The Humber,COVID-19,6.3900
+2023-09-17,Yorkshire and The Humber,influenza,13.1400
+2023-09-17,Yorkshire and The Humber,RSV,3.2600
+2023-09-24,East Midlands,COVID-19,7.4400
+2023-09-24,East Midlands,influenza,12.6900
+2023-09-24,East Midlands,RSV,4.1300
+2023-09-24,East of England,COVID-19,6.8000
+2023-09-24,East of England,influenza,12.9500
+2023-09-24,East of England,RSV,4.1700
+2023-09-24,England,COVID-19,6.4200
+2023-09-24,England,influenza,11.9300
+2023-09-24,England,RSV,4.7100
+2023-09-24,London,COVID-19,6.8500
+2023-09-24,London,influenza,11.8500
+2023-09-24,London,RSV,5.3400
+2023-09-24,North East,COVID-19,7.4900
+2023-09-24,North East,influenza,13.1900
+2023-09-24,North East,RSV,4.9400
+2023-09-24,North West,COVID-19,6.2500
+2023-09-24,North West,influenza,14.5000
+2023-09-24,North West,RSV,4.9100
+2023-09-24,South East,COVID-19,6.1700
+2023-09-24,South East,influenza,12.4400
+2023-09-24,South East,RSV,4.5100
+2023-09-24,South West,COVID-19,6.6600
+2023-09-24,South West,influenza,12.4200
+2023-09-24,South West,RSV,4.0400
+2023-09-24,West Midlands,COVID-19,5.8300
+2023-09-24,West Midlands,influenza,14.4300
+2023-09-24,West Midlands,RSV,4.8100
+2023-09-24,Yorkshire and The Humber,COVID-19,7.4400
+2023-09-24,Yorkshire and The Humber,influenza,16.0500
+2023-09-24,Yorkshire and The Humber,RSV,5.7100
+2023-10-01,East Midlands,COVID-19,6.6300
+2023-10-01,East Midlands,influenza,11.9900
+2023-10-01,East Midlands,RSV,4.8800
+2023-10-01,East of England,COVID-19,7.5800
+2023-10-01,East of England,influenza,11.5900
+2023-10-01,East of England,RSV,5.5900
+2023-10-01,England,COVID-19,8.1900
+2023-10-01,England,influenza,13.9300
+2023-10-01,England,RSV,5.4000
+2023-10-01,London,COVID-19,5.0700
+2023-10-01,London,influenza,12.8300
+2023-10-01,London,RSV,5.1100
+2023-10-01,North East,COVID-19,7.2800
+2023-10-01,North East,influenza,15.1900
+2023-10-01,North East,RSV,4.1900
+2023-10-01,North West,COVID-19,8.3500
+2023-10-01,North West,influenza,12.6900
+2023-10-01,North West,RSV,5.0300
+2023-10-01,South East,COVID-19,7.1900
+2023-10-01,South East,influenza,13.3600
+2023-10-01,South East,RSV,4.5300
+2023-10-01,South West,COVID-19,6.6900
+2023-10-01,South West,influenza,14.7100
+2023-10-01,South West,RSV,4.9300
+2023-10-01,West Midlands,COVID-19,5.2300
+2023-10-01,West Midlands,influenza,15.0200
+2023-10-01,West Midlands,RSV,4.5400
+2023-10-01,Yorkshire and The Humber,COVID-19,5.9400
+2023-10-01,Yorkshire and The Humber,influenza,10.0500
+2023-10-01,Yorkshire and The Humber,RSV,4.0600
+2023-10-08,East Midlands,COVID-19,7.1500
+2023-10-08,East Midlands,influenza,18.2900
+2023-10-08,East Midlands,RSV,3.6600
+2023-10-08,East of England,COVID-19,7.7300
+2023-10-08,East of England,influenza,12.8900
+2023-10-08,East of England,RSV,6.3400
+2023-10-08,England,COVID-19,7.1300
+2023-10-08,England,influenza,15.0500
+2023-10-08,England,RSV,5.2100
+2023-10-08,London,COVID-19,8.0500
+2023-10-08,London,influenza,15.4800
+2023-10-08,London,RSV,4.7600
+2023-10-08,North East,COVID-19,6.7400
+2023-10-08,North East,influenza,13.6600
+2023-10-08,North East,RSV,5.8200
+2023-10-08,North West,COVID-19,7.4000
+2023-10-08,North West,influenza,13.1800
+2023-10-08,North West,RSV,4.7700
+2023-10-08,South East,COVID-19,6.5800
+2023-10-08,South East,influenza,11.8700
+2023-10-08,South East,RSV,4.8900
+2023-10-08,South West,COVID-19,8.3600
+2023-10-08,South West,influenza,15.2500
+2023-10-08,South West,RSV,4.6900
+2023-10-08,West Midlands,COVID-19,6.0600
+2023-10-08,West Midlands,influenza,13.1700
+2023-10-08,West Midlands,RSV,4.3200
+2023-10-08,Yorkshire and The Humber,COVID-19,8.0700
+2023-10-08,Yorkshire and The Humber,influenza,14.6800
+2023-10-08,Yorkshire and The Humber,RSV,5.0000
+2023-10-15,East Midlands,COVID-19,6.5000
+2023-10-15,East Midlands,influenza,16.0200
+2023-10-15,East Midlands,RSV,6.1900
+2023-10-15,East of England,COVID-19,9.8900
+2023-10-15,East of England,influenza,13.4000
+2023-10-15,East of England,RSV,6.0900
+2023-10-15,England,COVID-19,6.6500
+2023-10-15,England,influenza,15.2000
+2023-10-15,England,RSV,5.4100
+2023-10-15,London,COVID-19,5.8300
+2023-10-15,London,influenza,11.3900
+2023-10-15,London,RSV,4.2700
+2023-10-15,North East,COVID-19,7.4600
+2023-10-15,North East,influenza,18.0100
+2023-10-15,North East,RSV,4.7500
+2023-10-15,North West,COVID-19,6.2300
+2023-10-15,North West,influenza,15.5300
+2023-10-15,North West,RSV,5.2800
+2023-10-15,South East,COVID-19,8.3000
+2023-10-15,South East,influenza,14.9800
+2023-10-15,South East,RSV,5.7800
+2023-10-15,South West,COVID-19,8.7300
+2023-10-15,South West,influenza,13.4400
+2023-10-15,South West,RSV,6.3700
+2023-10-15,West Midlands,COVID-19,7.8300
+2023-10-15,West Midlands,influenza,16.9500
+2023-10-15,West Midlands,RSV,4.9100
+2023-10-15,Yorkshire and The Humber,COVID-19,8.1700
+2023-10-15,Yorkshire and The Humber,influenza,14.4900
+2023-10-15,Yorkshire and The Humber,RSV,4.0300
+2023-10-22,East Midlands,COVID-19,9.4100
+2023-10-22,East Midlands,influenza,18.0600
+2023-10-22,East Midlands,RSV,5.6800
+2023-10-22,East of England,COVID-19,7.1000
+2023-10-22,East of England,influenza,18.0700
+2023-10-22,East of England,RSV,4.6500
+2023-10-22,England,COVID-19,7.4500
+2023-10-22,England,influenza,15.4600
+2023-10-22,England,RSV,5.4400
+2023-10-22,London,COVID-19,8.8400
+2023-10-22,London,influenza,19.4200
+2023-10-22,London,RSV,4.9800
+2023-10-22,North East,COVID-19,8.7200
+2023-10-22,North East,influenza,15.9600
+2023-10-22,North East,RSV,5.7200
+2023-10-22,North West,COVID-19,6.6900
+2023-10-22,North West,influenza,15.7500
+2023-10-22,North West,RSV,4.4300
+2023-10-22,South East,COVID-19,6.4300
+2023-10-22,South East,influenza,15.1800
+2023-10-22,South East,RSV,5.4800
+2023-10-22,South West,COVID-19,6.3700
+2023-10-22,South West,influenza,17.4600
+2023-10-22,South West,RSV,4.9700
+2023-10-22,West Midlands,COVID-19,7.1200
+2023-10-22,West Midlands,influenza,13.3400
+2023-10-22,West Midlands,RSV,5.1800
+2023-10-22,Yorkshire and The Humber,COVID-19,6.8300
+2023-10-22,Yorkshire and The Humber,influenza,14.0500
+2023-10-22,Yorkshire and The Humber,RSV,4.9300
+2023-10-29,East Midlands,COVID-19,7.3500
+2023-10-29,East Midlands,influenza,18.2700
+2023-10-29,East Midlands,RSV,4.9700
+2023-10-29,East of England,COVID-19,7.9000
+2023-10-29,East of England,influenza,15.1800
+2023-10-29,East of England,RSV,6.4700
+2023-10-29,England,COVID-19,7.9100
+2023-10-29,England,influenza,15.7000
+2023-10-29,England,RSV,5.9500
+2023-10-29,London,COVID-19,7.2400
+2023-10-29,London,influenza,14.1500
+2023-10-29,London,RSV,5.8600
+2023-10-29,North East,COVID-19,8.9000
+2023-10-29,North East,influenza,18.3200
+2023-10-29,North East,RSV,6.4900
+2023-10-29,North West,COVID-19,6.3300
+2023-10-29,North West,influenza,15.3200
+2023-10-29,North West,RSV,5.2900
+2023-10-29,South East,COVID-19,7.5100
+2023-10-29,South East,influenza,17.9000
+2023-10-29,South East,RSV,5.6400
+2023-10-29,South West,COVID-19,6.5000
+2023-10-29,South West,influenza,16.2600
+2023-10-29,South West,RSV,5.0700
+2023-10-29,West Midlands,COVID-19,7.2000
+2023-10-29,West Midlands,influenza,15.1400
+2023-10-29,West Midlands,RSV,6.1000
+2023-10-29,Yorkshire and The Humber,COVID-19,5.3600
+2023-10-29,Yorkshire and The Humber,influenza,15.0000
+2023-10-29,Yorkshire and The Humber,RSV,7.1800
+2023-11-05,East Midlands,COVID-19,8.9100
+2023-11-05,East Midlands,influenza,18.2500
+2023-11-05,East Midlands,RSV,4.8000
+2023-11-05,East of England,COVID-19,7.7800
+2023-11-05,East of England,influenza,16.5300
+2023-11-05,East of England,RSV,4.8100
+2023-11-05,England,COVID-19,8.5700
+2023-11-05,England,influenza,15.0300
+2023-11-05,England,RSV,6.0000
+2023-11-05,London,COVID-19,7.6200
+2023-11-05,London,influenza,13.5900
+2023-11-05,London,RSV,4.7900
+2023-11-05,North East,COVID-19,7.2200
+2023-11-05,North East,influenza,16.0000
+2023-11-05,North East,RSV,4.8000
+2023-11-05,North West,COVID-19,7.7800
+2023-11-05,North West,influenza,16.8600
+2023-11-05,North West,RSV,5.0900
+2023-11-05,South East,COVID-19,6.9000
+2023-11-05,South East,influenza,15.3900
+2023-11-05,South East,RSV,5.8700
+2023-11-05,South West,COVID-19,7.3400
+2023-11-05,South West,influenza,14.5800
+2023-11-05,South West,RSV,6.4900
+2023-11-05,West Midlands,COVID-19,6.6500
+2023-11-05,West Midlands,influenza,14.4600
+2023-11-05,West Midlands,RSV,6.7000
+2023-11-05,Yorkshire and The Humber,COVID-19,7.0300
+2023-11-05,Yorkshire and The Humber,influenza,20.0200
+2023-11-05,Yorkshire and The Humber,RSV,5.5200
+2023-11-12,East Midlands,COVID-19,8.1600
+2023-11-12,East Midlands,influenza,18.0400
+2023-11-12,East Midlands,RSV,5.9000
+2023-11-12,East of England,COVID-19,7.7200
+2023-11-12,East of England,influenza,18.1700
+2023-11-12,East of England,RSV,5.0300
+2023-11-12,England,COVID-19,7.4900
+2023-11-12,England,influenza,15.7900
+2023-11-12,England,RSV,5.5300
+2023-11-12,London,COVID-19,9.2400
+2023-11-12,London,influenza,14.9300
+2023-11-12,London,RSV,5.2800
+2023-11-12,North East,COVID-19,7.9300
+2023-11-12,North East,influenza,12.8000
+2023-11-12,North East,RSV,6.6100
+2023-11-12,North West,COVID-19,6.9900
+2023-11-12,North West,influenza,16.2400
+2023-11-12,North West,RSV,5.1200
+2023-11-12,South East,COVID-19,7.4100
+2023-11-12,South East,influenza,16.1400
+2023-11-12,South East,RSV,4.7500
+2023-11-12,South West,COVID-19,6.0900
+2023-11-12,South West,influenza,18.5600
+2023-11-12,South West,RSV,7.0700
+2023-11-12,West Midlands,COVID-19,6.9300
+2023-11-12,West Midlands,influenza,18.9000
+2023-11-12,West Midlands,RSV,5.6200
+2023-11-12,Yorkshire and The Humber,COVID-19,7.2400
+2023-11-12,Yorkshire and The Humber,influenza,14.1600
+2023-11-12,Yorkshire and The Humber,RSV,5.6900
+2023-11-19,East Midlands,COVID-19,9.2600
+2023-11-19,East Midlands,influenza,14.0700
+2023-11-19,East Midlands,RSV,5.6200
+2023-11-19,East of England,COVID-19,6.8500
+2023-11-19,East of England,influenza,13.4900
+2023-11-19,East of England,RSV,5.8100
+2023-11-19,England,COVID-19,7.0100
+2023-11-19,England,influenza,16.0300
+2023-11-19,England,RSV,5.3300
+2023-11-19,London,COVID-19,6.6400
+2023-11-19,London,influenza,16.3800
+2023-11-19,London,RSV,7.1500
+2023-11-19,North East,COVID-19,7.8400
+2023-11-19,North East,influenza,16.4700
+2023-11-19,North East,RSV,4.4300
+2023-11-19,North West,COVID-19,6.5300
+2023-11-19,North West,influenza,14.3500
+2023-11-19,North West,RSV,4.6900
+2023-11-19,South East,COVID-19,9.2000
+2023-11-19,South East,influenza,16.5000
+2023-11-19,South East,RSV,5.1600
+2023-11-19,South West,COVID-19,7.7300
+2023-11-19,South West,influenza,15.7200
+2023-11-19,South West,RSV,5.1100
+2023-11-19,West Midlands,COVID-19,7.4000
+2023-11-19,West Midlands,influenza,18.3000
+2023-11-19,West Midlands,RSV,6.1500
+2023-11-19,Yorkshire and The Humber,COVID-19,9.3800
+2023-11-19,Yorkshire and The Humber,influenza,13.9000
+2023-11-19,Yorkshire and The Humber,RSV,4.9900
+2023-11-26,East Midlands,COVID-19,8.4700
+2023-11-26,East Midlands,influenza,14.8700
+2023-11-26,East Midlands,RSV,6.9500
+2023-11-26,East of England,COVID-19,7.6500
+2023-11-26,East of England,influenza,15.0900
+2023-11-26,East of England,RSV,5.7900
+2023-11-26,England,COVID-19,8.1800
+2023-11-26,England,influenza,17.1500
+2023-11-26,England,RSV,5.6400
+2023-11-26,London,COVID-19,6.4900
+2023-11-26,London,influenza,16.2100
+2023-11-26,London,RSV,4.4800
+2023-11-26,North East,COVID-19,6.1300
+2023-11-26,North East,influenza,13.6900
+2023-11-26,North East,RSV,5.6900
+2023-11-26,North West,COVID-19,9.0200
+2023-11-26,North West,influenza,15.2700
+2023-11-26,North West,RSV,5.6000
+2023-11-26,South East,COVID-19,7.2400
+2023-11-26,South East,influenza,14.8600
+2023-11-26,South East,RSV,5.5400
+2023-11-26,South West,COVID-19,7.5300
+2023-11-26,South West,influenza,17.4200
+2023-11-26,South West,RSV,6.4400
+2023-11-26,West Midlands,COVID-19,7.3800
+2023-11-26,West Midlands,influenza,15.1200
+2023-11-26,West Midlands,RSV,6.0700
+2023-11-26,Yorkshire and The Humber,COVID-19,6.0400
+2023-11-26,Yorkshire and The Humber,influenza,20.3100
+2023-11-26,Yorkshire and The Humber,RSV,5.9500
+2023-12-03,East Midlands,COVID-19,7.7300
+2023-12-03,East Midlands,influenza,16.4900
+2023-12-03,East Midlands,RSV,4.5800
+2023-12-03,East of England,COVID-19,8.9200
+2023-12-03,East of England,influenza,17.1300
+2023-12-03,East of England,RSV,4.9300
+2023-12-03,England,COVID-19,7.0100
+2023-12-03,England,influenza,16.3700
+2023-12-03,England,RSV,5.3900
+2023-12-03,London,COVID-19,7.2300
+2023-12-03,London,influenza,17.6300
+2023-12-03,London,RSV,4.8300
+2023-12-03,North East,COVID-19,6.9900
+2023-12-03,North East,influenza,13.9600
+2023-12-03,North East,RSV,4.8200
+2023-12-03,North West,COVID-19,8.5500
+2023-12-03,North West,influenza,17.9800
+2023-12-03,North West,RSV,5.9000
+2023-12-03,South East,COVID-19,8.5000
+2023-12-03,South East,influenza,19.8000
+2023-12-03,South East,RSV,5.6200
+2023-12-03,South West,COVID-19,6.2200
+2023-12-03,South West,influenza,14.3900
+2023-12-03,South West,RSV,6.3600
+2023-12-03,West Midlands,COVID-19,8.5300
+2023-12-03,West Midlands,influenza,18.1800
+2023-12-03,West Midlands,RSV,4.6900
+2023-12-03,Yorkshire and The Humber,COVID-19,6.9500
+2023-12-03,Yorkshire and The Humber,influenza,13.2600
+2023-12-03,Yorkshire and The Humber,RSV,5.7700
+2023-12-10,East Midlands,COVID-19,6.1100
+2023-12-10,East Midlands,influenza,16.6200
+2023-12-10,East Midlands,RSV,5.1400
+2023-12-10,East of England,COVID-19,6.1100
+2023-12-10,East of England,influenza,17.5300
+2023-12-10,East of England,RSV,6.1500
+2023-12-10,England,COVID-19,7.3700
+2023-12-10,England,influenza,14.3500
+2023-12-10,England,RSV,5.5000
+2023-12-10,London,COVID-19,8.2400
+2023-12-10,London,influenza,16.0700
+2023-12-10,London,RSV,5.5300
+2023-12-10,North East,COVID-19,5.9700
+2023-12-10,North East,influenza,14.0000
+2023-12-10,North East,RSV,6.0300
+2023-12-10,North West,COVID-19,8.2400
+2023-12-10,North West,influenza,15.9500
+2023-12-10,North West,RSV,4.3100
+2023-12-10,South East,COVID-19,7.4700
+2023-12-10,South East,influenza,13.1400
+2023-12-10,South East,RSV,5.8000
+2023-12-10,South West,COVID-19,8.4500
+2023-12-10,South West,influenza,14.4400
+2023-12-10,South West,RSV,4.6700
+2023-12-10,West Midlands,COVID-19,6.3700
+2023-12-10,West Midlands,influenza,17.8100
+2023-12-10,West Midlands,RSV,5.6300
+2023-12-10,Yorkshire and The Humber,COVID-19,8.6400
+2023-12-10,Yorkshire and The Humber,influenza,15.3100
+2023-12-10,Yorkshire and The Humber,RSV,6.2000
+2023-12-17,East Midlands,COVID-19,6.6600
+2023-12-17,East Midlands,influenza,16.4100
+2023-12-17,East Midlands,RSV,6.2600
+2023-12-17,East of England,COVID-19,8.7200
+2023-12-17,East of England,influenza,12.0500
+2023-12-17,East of England,RSV,6.4000
+2023-12-17,England,COVID-19,7.3100
+2023-12-17,England,influenza,15.5800
+2023-12-17,England,RSV,5.7500
+2023-12-17,London,COVID-19,8.5100
+2023-12-17,London,influenza,14.2400
+2023-12-17,London,RSV,5.3500
+2023-12-17,North East,COVID-19,8.4400
+2023-12-17,North East,influenza,12.0400
+2023-12-17,North East,RSV,6.2300
+2023-12-17,North West,COVID-19,6.4800
+2023-12-17,North West,influenza,15.5100
+2023-12-17,North West,RSV,5.9700
+2023-12-17,South East,COVID-19,6.3200
+2023-12-17,South East,influenza,14.3200
+2023-12-17,South East,RSV,5.5100
+2023-12-17,South West,COVID-19,7.2400
+2023-12-17,South West,influenza,13.5100
+2023-12-17,South West,RSV,4.3900
+2023-12-17,West Midlands,COVID-19,5.2700
+2023-12-17,West Midlands,influenza,17.5200
+2023-12-17,West Midlands,RSV,5.5600
+2023-12-17,Yorkshire and The Humber,COVID-19,6.6300
+2023-12-17,Yorkshire and The Humber,influenza,18.8400
+2023-12-17,Yorkshire and The Humber,RSV,4.7900
+2023-12-24,East Midlands,COVID-19,5.7200
+2023-12-24,East Midlands,influenza,12.0600
+2023-12-24,East Midlands,RSV,4.6400
+2023-12-24,East of England,COVID-19,5.9300
+2023-12-24,East of England,influenza,14.1200
+2023-12-24,East of England,RSV,3.8700
+2023-12-24,England,COVID-19,7.2200
+2023-12-24,England,influenza,14.4700
+2023-12-24,England,RSV,5.0600
+2023-12-24,London,COVID-19,7.3300
+2023-12-24,London,influenza,17.4100
+2023-12-24,London,RSV,5.5700
+2023-12-24,North East,COVID-19,6.1000
+2023-12-24,North East,influenza,15.6100
+2023-12-24,North East,RSV,4.5200
+2023-12-24,North West,COVID-19,6.7700
+2023-12-24,North West,influenza,17.5200
+2023-12-24,North West,RSV,4.2500
+2023-12-24,South East,COVID-19,9.9200
+2023-12-24,South East,influenza,13.9500
+2023-12-24,South East,RSV,5.4300
+2023-12-24,South West,COVID-19,8.5100
+2023-12-24,South West,influenza,12.4000
+2023-12-24,South West,RSV,5.8800
+2023-12-24,West Midlands,COVID-19,8.5300
+2023-12-24,West Midlands,influenza,16.3100
+2023-12-24,West Midlands,RSV,5.4300
+2023-12-24,Yorkshire and The Humber,COVID-19,7.0500
+2023-12-24,Yorkshire and The Humber,influenza,15.8000
+2023-12-24,Yorkshire and The Humber,RSV,5.1100
+2023-12-31,East Midlands,COVID-19,5.9600
+2023-12-31,East Midlands,influenza,15.1700
+2023-12-31,East Midlands,RSV,4.5400
+2023-12-31,East of England,COVID-19,6.5900
+2023-12-31,East of England,influenza,12.0800
+2023-12-31,East of England,RSV,4.6100
+2023-12-31,England,COVID-19,7.3900
+2023-12-31,England,influenza,13.5900
+2023-12-31,England,RSV,4.9800
+2023-12-31,London,COVID-19,8.8500
+2023-12-31,London,influenza,15.5200
+2023-12-31,London,RSV,5.7800
+2023-12-31,North East,COVID-19,7.0800
+2023-12-31,North East,influenza,16.1800
+2023-12-31,North East,RSV,4.6600
+2023-12-31,North West,COVID-19,5.8400
+2023-12-31,North West,influenza,12.5600
+2023-12-31,North West,RSV,5.8900
+2023-12-31,South East,COVID-19,8.1000
+2023-12-31,South East,influenza,13.4700
+2023-12-31,South East,RSV,5.6300
+2023-12-31,South West,COVID-19,9.1900
+2023-12-31,South West,influenza,16.7200
+2023-12-31,South West,RSV,3.8300
+2023-12-31,West Midlands,COVID-19,8.8000
+2023-12-31,West Midlands,influenza,14.7600
+2023-12-31,West Midlands,RSV,4.2100
+2023-12-31,Yorkshire and The Humber,COVID-19,6.0400
+2023-12-31,Yorkshire and The Humber,influenza,12.4500
+2023-12-31,Yorkshire and The Humber,RSV,5.5300
+2024-01-07,East Midlands,COVID-19,7.2300
+2024-01-07,East Midlands,influenza,11.6900
+2024-01-07,East Midlands,RSV,4.8900
+2024-01-07,East of England,COVID-19,5.9500
+2024-01-07,East of England,influenza,15.5700
+2024-01-07,East of England,RSV,3.4200
+2024-01-07,England,COVID-19,6.4600
+2024-01-07,England,influenza,13.8800
+2024-01-07,England,RSV,4.7700
+2024-01-07,London,COVID-19,6.7200
+2024-01-07,London,influenza,13.6800
+2024-01-07,London,RSV,3.6200
+2024-01-07,North East,COVID-19,8.7600
+2024-01-07,North East,influenza,10.6900
+2024-01-07,North East,RSV,3.9300
+2024-01-07,North West,COVID-19,7.2600
+2024-01-07,North West,influenza,13.6000
+2024-01-07,North West,RSV,4.3100
+2024-01-07,South East,COVID-19,8.6200
+2024-01-07,South East,influenza,13.4100
+2024-01-07,South East,RSV,4.4400
+2024-01-07,South West,COVID-19,6.0700
+2024-01-07,South West,influenza,13.5800
+2024-01-07,South West,RSV,3.9800
+2024-01-07,West Midlands,COVID-19,7.9800
+2024-01-07,West Midlands,influenza,10.3500
+2024-01-07,West Midlands,RSV,5.5200
+2024-01-07,Yorkshire and The Humber,COVID-19,6.8200
+2024-01-07,Yorkshire and The Humber,influenza,13.5200
+2024-01-07,Yorkshire and The Humber,RSV,4.8100
+2024-01-14,East Midlands,COVID-19,7.2000
+2024-01-14,East Midlands,influenza,9.4500
+2024-01-14,East Midlands,RSV,3.8700
+2024-01-14,East of England,COVID-19,6.4700
+2024-01-14,East of England,influenza,10.5800
+2024-01-14,East of England,RSV,4.9400
+2024-01-14,England,COVID-19,6.3900
+2024-01-14,England,influenza,13.4000
+2024-01-14,England,RSV,4.7400
+2024-01-14,London,COVID-19,6.1600
+2024-01-14,London,influenza,13.7500
+2024-01-14,London,RSV,4.5600
+2024-01-14,North East,COVID-19,5.4800
+2024-01-14,North East,influenza,10.5700
+2024-01-14,North East,RSV,4.8500
+2024-01-14,North West,COVID-19,8.1100
+2024-01-14,North West,influenza,9.8400
+2024-01-14,North West,RSV,3.8000
+2024-01-14,South East,COVID-19,8.7300
+2024-01-14,South East,influenza,10.2700
+2024-01-14,South East,RSV,4.5000
+2024-01-14,South West,COVID-19,5.8400
+2024-01-14,South West,influenza,11.2000
+2024-01-14,South West,RSV,5.1100
+2024-01-14,West Midlands,COVID-19,8.2200
+2024-01-14,West Midlands,influenza,10.5000
+2024-01-14,West Midlands,RSV,3.3800
+2024-01-14,Yorkshire and The Humber,COVID-19,6.6800
+2024-01-14,Yorkshire and The Humber,influenza,14.2800
+2024-01-14,Yorkshire and The Humber,RSV,3.4100
+2024-01-21,East Midlands,COVID-19,6.2900
+2024-01-21,East Midlands,influenza,10.8400
+2024-01-21,East Midlands,RSV,5.0500
+2024-01-21,East of England,COVID-19,8.1300
+2024-01-21,East of England,influenza,11.3100
+2024-01-21,East of England,RSV,4.1000
+2024-01-21,England,COVID-19,6.2300
+2024-01-21,England,influenza,12.4500
+2024-01-21,England,RSV,3.5300
+2024-01-21,London,COVID-19,5.5900
+2024-01-21,London,influenza,10.8400
+2024-01-21,London,RSV,3.6800
+2024-01-21,North East,COVID-19,5.3700
+2024-01-21,North East,influenza,10.5200
+2024-01-21,North East,RSV,4.6500
+2024-01-21,North West,COVID-19,6.3700
+2024-01-21,North West,influenza,10.4900
+2024-01-21,North West,RSV,4.2500
+2024-01-21,South East,COVID-19,6.0200
+2024-01-21,South East,influenza,13.0400
+2024-01-21,South East,RSV,4.3300
+2024-01-21,South West,COVID-19,5.4200
+2024-01-21,South West,influenza,12.8800
+2024-01-21,South West,RSV,4.4200
+2024-01-21,West Midlands,COVID-19,8.6600
+2024-01-21,West Midlands,influenza,11.4100
+2024-01-21,West Midlands,RSV,3.1100
+2024-01-21,Yorkshire and The Humber,COVID-19,6.6900
+2024-01-21,Yorkshire and The Humber,influenza,13.8400
+2024-01-21,Yorkshire and The Humber,RSV,3.7900
+2024-01-28,East Midlands,COVID-19,6.3700
+2024-01-28,East Midlands,influenza,13.9100
+2024-01-28,East Midlands,RSV,4.9000
+2024-01-28,East of England,COVID-19,5.1100
+2024-01-28,East of England,influenza,10.7000
+2024-01-28,East of England,RSV,2.9300
+2024-01-28,England,COVID-19,6.0000
+2024-01-28,England,influenza,10.1000
+2024-01-28,England,RSV,3.7200
+2024-01-28,London,COVID-19,6.4200
+2024-01-28,London,influenza,9.9700
+2024-01-28,London,RSV,5.0100
+2024-01-28,North East,COVID-19,4.9100
+2024-01-28,North East,influenza,10.3000
+2024-01-28,North East,RSV,3.7000
+2024-01-28,North West,COVID-19,5.4100
+2024-01-28,North West,influenza,11.8800
+2024-01-28,North West,RSV,3.2400
+2024-01-28,South East,COVID-19,5.1400
+2024-01-28,South East,influenza,9.7300
+2024-01-28,South East,RSV,4.3700
+2024-01-28,South West,COVID-19,6.4600
+2024-01-28,South West,influenza,8.9300
+2024-01-28,South West,RSV,4.0500
+2024-01-28,West Midlands,COVID-19,4.2500
+2024-01-28,West Midlands,influenza,11.2100
+2024-01-28,West Midlands,RSV,3.7100
+2024-01-28,Yorkshire and The Humber,COVID-19,5.8400
+2024-01-28,Yorkshire and The Humber,influenza,11.5500
+2024-01-28,Yorkshire and The Humber,RSV,4.0800
+2024-02-04,East Midlands,COVID-19,5.8300
+2024-02-04,East Midlands,influenza,9.1200
+2024-02-04,East Midlands,RSV,3.7400
+2024-02-04,East of England,COVID-19,5.2900
+2024-02-04,East of England,influenza,10.6900
+2024-02-04,East of England,RSV,4.3300
+2024-02-04,England,COVID-19,5.6500
+2024-02-04,England,influenza,9.5500
+2024-02-04,England,RSV,3.6500
+2024-02-04,London,COVID-19,6.6700
+2024-02-04,London,influenza,7.7000
+2024-02-04,London,RSV,3.3000
+2024-02-04,North East,COVID-19,5.2300
+2024-02-04,North East,influenza,10.1900
+2024-02-04,North East,RSV,3.2000
+2024-02-04,North West,COVID-19,7.4100
+2024-02-04,North West,influenza,9.1700
+2024-02-04,North West,RSV,4.0800
+2024-02-04,South East,COVID-19,5.2500
+2024-02-04,South East,influenza,9.7600
+2024-02-04,South East,RSV,3.4800
+2024-02-04,South West,COVID-19,4.9400
+2024-02-04,South West,influenza,8.9300
+2024-02-04,South West,RSV,2.9300
+2024-02-04,West Midlands,COVID-19,5.7800
+2024-02-04,West Midlands,influenza,7.9900
+2024-02-04,West Midlands,RSV,3.2700
+2024-02-04,Yorkshire and The Humber,COVID-19,5.6800
+2024-02-04,Yorkshire and The Humber,influenza,10.3800
+2024-02-04,Yorkshire and The Humber,RSV,3.2000
+2024-02-11,East Midlands,COVID-19,4.3500
+2024-02-11,East Midlands,influenza,8.2100
+2024-02-11,East Midlands,RSV,2.4200
+2024-02-11,East of England,COVID-19,4.3100
+2024-02-11,East of England,influenza,8.6500
+2024-02-11,East of England,RSV,3.1100
+2024-02-11,England,COVID-19,5.4800
+2024-02-11,England,influenza,9.0600
+2024-02-11,England,RSV,3.6200
+2024-02-11,London,COVID-19,4.6300
+2024-02-11,London,influenza,9.9100
+2024-02-11,London,RSV,3.7700
+2024-02-11,North East,COVID-19,5.0200
+2024-02-11,North East,influenza,9.9800
+2024-02-11,North East,RSV,2.5900
+2024-02-11,North West,COVID-19,5.0400
+2024-02-11,North West,influenza,8.5900
+2024-02-11,North West,RSV,3.6800
+2024-02-11,South East,COVID-19,5.6400
+2024-02-11,South East,influenza,8.6100
+2024-02-11,South East,RSV,3.2500
+2024-02-11,South West,COVID-19,5.3000
+2024-02-11,South West,influenza,10.6000
+2024-02-11,South West,RSV,2.9100
+2024-02-11,West Midlands,COVID-19,6.5200
+2024-02-11,West Midlands,influenza,9.1800
+2024-02-11,West Midlands,RSV,2.7500
+2024-02-11,Yorkshire and The Humber,COVID-19,4.5000
+2024-02-11,Yorkshire and The Humber,influenza,7.2800
+2024-02-11,Yorkshire and The Humber,RSV,3.1900
+2024-02-18,East Midlands,COVID-19,5.3800
+2024-02-18,East Midlands,influenza,6.8600
+2024-02-18,East Midlands,RSV,3.7200
+2024-02-18,East of England,COVID-19,6.5900
+2024-02-18,East of England,influenza,7.9700
+2024-02-18,East of England,RSV,3.2300
+2024-02-18,England,COVID-19,5.3500
+2024-02-18,England,influenza,8.5600
+2024-02-18,England,RSV,2.7800
+2024-02-18,London,COVID-19,4.4100
+2024-02-18,London,influenza,6.7500
+2024-02-18,London,RSV,2.6800
+2024-02-18,North East,COVID-19,5.4000
+2024-02-18,North East,influenza,8.5000
+2024-02-18,North East,RSV,2.8800
+2024-02-18,North West,COVID-19,4.1600
+2024-02-18,North West,influenza,8.8600
+2024-02-18,North West,RSV,2.4600
+2024-02-18,South East,COVID-19,4.7500
+2024-02-18,South East,influenza,7.6000
+2024-02-18,South East,RSV,3.5600
+2024-02-18,South West,COVID-19,4.0100
+2024-02-18,South West,influenza,8.4800
+2024-02-18,South West,RSV,3.2200
+2024-02-18,West Midlands,COVID-19,4.2100
+2024-02-18,West Midlands,influenza,9.0700
+2024-02-18,West Midlands,RSV,3.0800
+2024-02-18,Yorkshire and The Humber,COVID-19,5.0700
+2024-02-18,Yorkshire and The Humber,influenza,8.2000
+2024-02-18,Yorkshire and The Humber,RSV,3.5800
+2024-02-25,East Midlands,COVID-19,4.9100
+2024-02-25,East Midlands,influenza,7.2900
+2024-02-25,East Midlands,RSV,2.6600
+2024-02-25,East of England,COVID-19,4.4900
+2024-02-25,East of England,influenza,5.7800
+2024-02-25,East of England,RSV,3.1700
+2024-02-25,England,COVID-19,4.7900
+2024-02-25,England,influenza,6.3900
+2024-02-25,England,RSV,2.0400
+2024-02-25,London,COVID-19,4.2600
+2024-02-25,London,influenza,6.8600
+2024-02-25,London,RSV,2.7200
+2024-02-25,North East,COVID-19,3.7300
+2024-02-25,North East,influenza,8.3700
+2024-02-25,North East,RSV,2.1000
+2024-02-25,North West,COVID-19,4.2000
+2024-02-25,North West,influenza,6.7100
+2024-02-25,North West,RSV,2.7700
+2024-02-25,South East,COVID-19,4.1200
+2024-02-25,South East,influenza,5.6200
+2024-02-25,South East,RSV,2.6800
+2024-02-25,South West,COVID-19,4.5200
+2024-02-25,South West,influenza,7.5400
+2024-02-25,South West,RSV,2.7900
+2024-02-25,West Midlands,COVID-19,4.1600
+2024-02-25,West Midlands,influenza,8.5700
+2024-02-25,West Midlands,RSV,2.7100
+2024-02-25,Yorkshire and The Humber,COVID-19,4.2000
+2024-02-25,Yorkshire and The Humber,influenza,7.5300
+2024-02-25,Yorkshire and The Humber,RSV,2.4000
+2024-03-03,East Midlands,COVID-19,5.4400
+2024-03-03,East Midlands,influenza,5.4400
+2024-03-03,East Midlands,RSV,2.2000
+2024-03-03,East of England,COVID-19,3.9500
+2024-03-03,East of England,influenza,5.1700
+2024-03-03,East of England,RSV,2.7200
+2024-03-03,England,COVID-19,4.4900
+2024-03-03,England,influenza,5.6400
+2024-03-03,England,RSV,2.4700
+2024-03-03,London,COVID-19,3.1400
+2024-03-03,London,influenza,4.6900
+2024-03-03,London,RSV,2.7600
+2024-03-03,North East,COVID-19,4.6700
+2024-03-03,North East,influenza,5.1300
+2024-03-03,North East,RSV,2.3200
+2024-03-03,North West,COVID-19,4.2900
+2024-03-03,North West,influenza,6.5200
+2024-03-03,North West,RSV,2.6700
+2024-03-03,South East,COVID-19,5.1300
+2024-03-03,South East,influenza,5.2900
+2024-03-03,South East,RSV,1.8700
+2024-03-03,South West,COVID-19,2.5400
+2024-03-03,South West,influenza,5.0400
+2024-03-03,South West,RSV,2.1200
+2024-03-03,West Midlands,COVID-19,3.8100
+2024-03-03,West Midlands,influenza,4.3500
+2024-03-03,West Midlands,RSV,1.8100
+2024-03-03,Yorkshire and The Humber,COVID-19,4.5900
+2024-03-03,Yorkshire and The Humber,influenza,6.5400
+2024-03-03,Yorkshire and The Humber,RSV,2.8200
+2024-03-10,East Midlands,COVID-19,4.5100
+2024-03-10,East Midlands,influenza,5.4900
+2024-03-10,East Midlands,RSV,2.0200
+2024-03-10,East of England,COVID-19,3.0700
+2024-03-10,East of England,influenza,5.8100
+2024-03-10,East of England,RSV,1.7200
+2024-03-10,England,COVID-19,3.1500
+2024-03-10,England,influenza,3.9400
+2024-03-10,England,RSV,1.7800
+2024-03-10,London,COVID-19,5.3100
+2024-03-10,London,influenza,3.7000
+2024-03-10,London,RSV,1.3500
+2024-03-10,North East,COVID-19,3.7300
+2024-03-10,North East,influenza,5.3900
+2024-03-10,North East,RSV,1.4400
+2024-03-10,North West,COVID-19,3.4100
+2024-03-10,North West,influenza,3.0400
+2024-03-10,North West,RSV,1.9500
+2024-03-10,South East,COVID-19,3.7800
+2024-03-10,South East,influenza,5.0200
+2024-03-10,South East,RSV,1.6900
+2024-03-10,South West,COVID-19,4.1900
+2024-03-10,South West,influenza,5.6400
+2024-03-10,South West,RSV,1.9400
+2024-03-10,West Midlands,COVID-19,4.5300
+2024-03-10,West Midlands,influenza,5.4700
+2024-03-10,West Midlands,RSV,1.6500
+2024-03-10,Yorkshire and The Humber,COVID-19,3.2100
+2024-03-10,Yorkshire and The Humber,influenza,5.0300
+2024-03-10,Yorkshire and The Humber,RSV,2.3000
+2024-03-17,East Midlands,COVID-19,2.9500
+2024-03-17,East Midlands,influenza,4.8700
+2024-03-17,East Midlands,RSV,1.2500
+2024-03-17,East of England,COVID-19,3.4200
+2024-03-17,East of England,influenza,3.6300
+2024-03-17,East of England,RSV,1.6300
+2024-03-17,England,COVID-19,3.6600
+2024-03-17,England,influenza,2.9600
+2024-03-17,England,RSV,1.3200
+2024-03-17,London,COVID-19,3.2000
+2024-03-17,London,influenza,4.1600
+2024-03-17,London,RSV,2.2500
+2024-03-17,North East,COVID-19,2.7200
+2024-03-17,North East,influenza,3.8500
+2024-03-17,North East,RSV,1.7700
+2024-03-17,North West,COVID-19,3.4500
+2024-03-17,North West,influenza,4.2000
+2024-03-17,North West,RSV,1.8800
+2024-03-17,South East,COVID-19,4.3900
+2024-03-17,South East,influenza,3.1300
+2024-03-17,South East,RSV,1.4100
+2024-03-17,South West,COVID-19,3.9400
+2024-03-17,South West,influenza,5.1100
+2024-03-17,South West,RSV,1.3600
+2024-03-17,West Midlands,COVID-19,3.0100
+2024-03-17,West Midlands,influenza,4.4400
+2024-03-17,West Midlands,RSV,1.7100
+2024-03-17,Yorkshire and The Humber,COVID-19,2.7400
+2024-03-17,Yorkshire and The Humber,influenza,3.8100
+2024-03-17,Yorkshire and The Humber,RSV,1.2900
+2024-03-24,East Midlands,COVID-19,3.9100
+2024-03-24,East Midlands,influenza,3.8000
+2024-03-24,East Midlands,RSV,1.2800
+2024-03-24,East of England,COVID-19,4.0900
+2024-03-24,East of England,influenza,3.7400
+2024-03-24,East of England,RSV,1.6100
+2024-03-24,England,COVID-19,3.5900
+2024-03-24,England,influenza,3.7100
+2024-03-24,England,RSV,1.2100
+2024-03-24,London,COVID-19,3.3400
+2024-03-24,London,influenza,2.4700
+2024-03-24,London,RSV,.9600
+2024-03-24,North East,COVID-19,2.5100
+2024-03-24,North East,influenza,1.6700
+2024-03-24,North East,RSV,2.1700
+2024-03-24,North West,COVID-19,3.1100
+2024-03-24,North West,influenza,1.8200
+2024-03-24,North West,RSV,1.3200
+2024-03-24,South East,COVID-19,3.2900
+2024-03-24,South East,influenza,3.6700
+2024-03-24,South East,RSV,1.4200
+2024-03-24,South West,COVID-19,3.5400
+2024-03-24,South West,influenza,2.3400
+2024-03-24,South West,RSV,1.2800
+2024-03-24,West Midlands,COVID-19,3.4100
+2024-03-24,West Midlands,influenza,3.8800
+2024-03-24,West Midlands,RSV,1.2800
+2024-03-24,Yorkshire and The Humber,COVID-19,3.3100
+2024-03-24,Yorkshire and The Humber,influenza,3.0500
+2024-03-24,Yorkshire and The Humber,RSV,1.7000
+2024-03-31,East Midlands,COVID-19,2.2600
+2024-03-31,East Midlands,influenza,.7900
+2024-03-31,East Midlands,RSV,1.2800
+2024-03-31,East of England,COVID-19,2.4700
+2024-03-31,East of England,influenza,2.3500
+2024-03-31,East of England,RSV,1.0200
+2024-03-31,England,COVID-19,3.4600
+2024-03-31,England,influenza,3.3700
+2024-03-31,England,RSV,1.0900
+2024-03-31,London,COVID-19,2.5900
+2024-03-31,London,influenza,1.7600
+2024-03-31,London,RSV,1.2600
+2024-03-31,North East,COVID-19,2.7300
+2024-03-31,North East,influenza,3.9100
+2024-03-31,North East,RSV,1.2400
+2024-03-31,North West,COVID-19,3.7000
+2024-03-31,North West,influenza,2.3600
+2024-03-31,North West,RSV,1.8900
+2024-03-31,South East,COVID-19,3.6100
+2024-03-31,South East,influenza,2.9700
+2024-03-31,South East,RSV,1.3300
+2024-03-31,South West,COVID-19,2.7000
+2024-03-31,South West,influenza,2.4600
+2024-03-31,South West,RSV,1.5400
+2024-03-31,West Midlands,COVID-19,3.0400
+2024-03-31,West Midlands,influenza,1.1300
+2024-03-31,West Midlands,RSV,1.1300
+2024-03-31,Yorkshire and The Humber,COVID-19,3.3500
+2024-03-31,Yorkshire and The Humber,influenza,2.3500
+2024-03-31,Yorkshire and The Humber,RSV,1.1200
+2024-04-07,East Midlands,COVID-19,3.3300
+2024-04-07,East Midlands,influenza,.4400
+2024-04-07,East Midlands,RSV,.6700
+2024-04-07,East of England,COVID-19,3.3100
+2024-04-07,East of England,influenza,1.4600
+2024-04-07,East of England,RSV,.7100
+2024-04-07,England,COVID-19,2.5100
+2024-04-07,England,influenza,1.5300
+2024-04-07,England,RSV,.7300
+2024-04-07,London,COVID-19,1.6100
+2024-04-07,London,influenza,1.2400
+2024-04-07,London,RSV,.7600
+2024-04-07,North East,COVID-19,2.0200
+2024-04-07,North East,influenza,.3600
+2024-04-07,North East,RSV,.6100
+2024-04-07,North West,COVID-19,2.7000
+2024-04-07,North West,influenza,1.2400
+2024-04-07,North West,RSV,1.2000
+2024-04-07,South East,COVID-19,2.8500
+2024-04-07,South East,influenza,1.5900
+2024-04-07,South East,RSV,.8900
+2024-04-07,South West,COVID-19,2.7800
+2024-04-07,South West,influenza,1.4000
+2024-04-07,South West,RSV,.8000
+2024-04-07,West Midlands,COVID-19,2.9400
+2024-04-07,West Midlands,influenza,1.5200
+2024-04-07,West Midlands,RSV,.9300
+2024-04-07,Yorkshire and The Humber,COVID-19,2.0000
+2024-04-07,Yorkshire and The Humber,influenza,1.2700
+2024-04-07,Yorkshire and The Humber,RSV,1.0100
+2024-04-14,East Midlands,COVID-19,3.0500
+2024-04-14,East Midlands,influenza,1.8600
+2024-04-14,East Midlands,RSV,.5600
+2024-04-14,East of England,COVID-19,2.6300
+2024-04-14,East of England,influenza,1.8800
+2024-04-14,East of England,RSV,.7100
+2024-04-14,England,COVID-19,2.3300
+2024-04-14,England,influenza,1.7800
+2024-04-14,England,RSV,.1000
+2024-04-14,London,COVID-19,3.2500
+2024-04-14,London,influenza,1.6200
+2024-04-14,London,RSV,.1700
+2024-04-14,North East,COVID-19,2.5000
+2024-04-14,North East,influenza,1.1000
+2024-04-14,North East,RSV,1.3000
+2024-04-14,North West,COVID-19,4.0600
+2024-04-14,North West,influenza,.0700
+2024-04-14,North West,RSV,.6600
+2024-04-14,South East,COVID-19,2.8500
+2024-04-14,South East,influenza,1.0900
+2024-04-14,South East,RSV,.6300
+2024-04-14,South West,COVID-19,2.2300
+2024-04-14,South West,influenza,.4900
+2024-04-14,South West,RSV,1.1100
+2024-04-14,West Midlands,COVID-19,2.8800
+2024-04-14,West Midlands,influenza,.4200
+2024-04-14,West Midlands,RSV,.1000
+2024-04-14,Yorkshire and The Humber,COVID-19,1.4800
+2024-04-14,Yorkshire and The Humber,influenza,.9300
+2024-04-14,Yorkshire and The Humber,RSV,.5200
+2024-04-21,East Midlands,COVID-19,1.8300
+2024-04-21,East Midlands,influenza,.5700
+2024-04-21,East Midlands,RSV,.0900
+2024-04-21,East of England,COVID-19,2.7300
+2024-04-21,East of England,influenza,1.2600
+2024-04-21,East of England,RSV,.3200
+2024-04-21,England,COVID-19,2.2000
+2024-04-21,England,influenza,.7600
+2024-04-21,England,RSV,.8200
+2024-04-21,London,COVID-19,2.8900
+2024-04-21,London,influenza,.2500
+2024-04-21,London,RSV,.0800
+2024-04-21,North East,COVID-19,2.8300
+2024-04-21,North East,influenza,.1000
+2024-04-21,North East,RSV,.5200
+2024-04-21,North West,COVID-19,2.0000
+2024-04-21,North West,influenza,1.3500
+2024-04-21,North West,RSV,.4700
+2024-04-21,South East,COVID-19,2.3100
+2024-04-21,South East,influenza,.0900
+2024-04-21,South East,RSV,.7700
+2024-04-21,South West,COVID-19,2.6000
+2024-04-21,South West,influenza,.0900
+2024-04-21,South West,RSV,.5100
+2024-04-21,West Midlands,COVID-19,2.3500
+2024-04-21,West Midlands,influenza,.0800
+2024-04-21,West Midlands,RSV,.5400
+2024-04-21,Yorkshire and The Humber,COVID-19,3.8100
+2024-04-21,Yorkshire and The Humber,influenza,.9500
+2024-04-21,Yorkshire and The Humber,RSV,.5100
+2024-04-28,East Midlands,COVID-19,1.9700
+2024-04-28,East Midlands,influenza,.0600
+2024-04-28,East Midlands,RSV,.3900
+2024-04-28,East of England,COVID-19,2.9500
+2024-04-28,East of England,influenza,.0800
+2024-04-28,East of England,RSV,.7000
+2024-04-28,England,COVID-19,2.6300
+2024-04-28,England,influenza,.1000
+2024-04-28,England,RSV,.8100
+2024-04-28,London,COVID-19,2.8100
+2024-04-28,London,influenza,.9200
+2024-04-28,London,RSV,.6800
+2024-04-28,North East,COVID-19,1.3400
+2024-04-28,North East,influenza,1.3600
+2024-04-28,North East,RSV,.6400
+2024-04-28,North West,COVID-19,1.2400
+2024-04-28,North West,influenza,.1000
+2024-04-28,North West,RSV,.7300
+2024-04-28,South East,COVID-19,1.5000
+2024-04-28,South East,influenza,1.5500
+2024-04-28,South East,RSV,.4500
+2024-04-28,South West,COVID-19,3.0400
+2024-04-28,South West,influenza,.0800
+2024-04-28,South West,RSV,.5100
+2024-04-28,West Midlands,COVID-19,2.3900
+2024-04-28,West Midlands,influenza,.0400
+2024-04-28,West Midlands,RSV,.1600
+2024-04-28,Yorkshire and The Humber,COVID-19,1.4300
+2024-04-28,Yorkshire and The Humber,influenza,.1500
+2024-04-28,Yorkshire and The Humber,RSV,.1000
+2024-05-05,East Midlands,COVID-19,1.5600
+2024-05-05,East Midlands,influenza,.8400
+2024-05-05,East Midlands,RSV,.0900
+2024-05-05,East of England,COVID-19,2.0900
+2024-05-05,East of England,influenza,.0900
+2024-05-05,East of England,RSV,.0600
+2024-05-05,England,COVID-19,2.7800
+2024-05-05,England,influenza,.1000
+2024-05-05,England,RSV,.5300
+2024-05-05,London,COVID-19,2.2200
+2024-05-05,London,influenza,.0800
+2024-05-05,London,RSV,.2100
+2024-05-05,North East,COVID-19,2.1100
+2024-05-05,North East,influenza,.0800
+2024-05-05,North East,RSV,.0700
+2024-05-05,North West,COVID-19,1.8100
+2024-05-05,North West,influenza,.0900
+2024-05-05,North West,RSV,.2600
+2024-05-05,South East,COVID-19,2.0200
+2024-05-05,South East,influenza,1.2500
+2024-05-05,South East,RSV,.1500
+2024-05-05,South West,COVID-19,1.4300
+2024-05-05,South West,influenza,.3700
+2024-05-05,South West,RSV,.2100
+2024-05-05,West Midlands,COVID-19,1.5400
+2024-05-05,West Midlands,influenza,.0900
+2024-05-05,West Midlands,RSV,.1100
+2024-05-05,Yorkshire and The Humber,COVID-19,2.9000
+2024-05-05,Yorkshire and The Humber,influenza,.6000
+2024-05-05,Yorkshire and The Humber,RSV,.0700
+2024-05-12,East Midlands,COVID-19,1.6400
+2024-05-12,East Midlands,influenza,.3000
+2024-05-12,East Midlands,RSV,.0900
+2024-05-12,East of England,COVID-19,2.0800
+2024-05-12,East of England,influenza,.2800
+2024-05-12,East of England,RSV,.1900
+2024-05-12,England,COVID-19,2.0100
+2024-05-12,England,influenza,.8700
+2024-05-12,England,RSV,.1000
+2024-05-12,London,COVID-19,1.8900
+2024-05-12,London,influenza,.0800
+2024-05-12,London,RSV,.4700
+2024-05-12,North East,COVID-19,2.3400
+2024-05-12,North East,influenza,.0400
+2024-05-12,North East,RSV,.2400
+2024-05-12,North West,COVID-19,1.4400
+2024-05-12,North West,influenza,.1100
+2024-05-12,North West,RSV,.4300
+2024-05-12,South East,COVID-19,1.5100
+2024-05-12,South East,influenza,.0800
+2024-05-12,South East,RSV,.5300
+2024-05-12,South West,COVID-19,2.6400
+2024-05-12,South West,influenza,.0500
+2024-05-12,South West,RSV,.3100
+2024-05-12,West Midlands,COVID-19,2.1900
+2024-05-12,West Midlands,influenza,.1000
+2024-05-12,West Midlands,RSV,.7800
+2024-05-12,Yorkshire and The Humber,COVID-19,1.9700
+2024-05-12,Yorkshire and The Humber,influenza,.0800
+2024-05-12,Yorkshire and The Humber,RSV,.0700
+2024-05-19,East Midlands,COVID-19,2.0300
+2024-05-19,East Midlands,influenza,.0900
+2024-05-19,East Midlands,RSV,.3300
+2024-05-19,East of England,COVID-19,2.4800
+2024-05-19,East of England,influenza,.0900
+2024-05-19,East of England,RSV,.2900
+2024-05-19,England,COVID-19,2.6500
+2024-05-19,England,influenza,.1000
+2024-05-19,England,RSV,.2100
+2024-05-19,London,COVID-19,2.3100
+2024-05-19,London,influenza,.0900
+2024-05-19,London,RSV,.4300
+2024-05-19,North East,COVID-19,1.3900
+2024-05-19,North East,influenza,.0600
+2024-05-19,North East,RSV,.0800
+2024-05-19,North West,COVID-19,2.0000
+2024-05-19,North West,influenza,.0800
+2024-05-19,North West,RSV,.1900
+2024-05-19,South East,COVID-19,1.3000
+2024-05-19,South East,influenza,.0400
+2024-05-19,South East,RSV,.7900
+2024-05-19,South West,COVID-19,2.2000
+2024-05-19,South West,influenza,.0400
+2024-05-19,South West,RSV,.8300
+2024-05-19,West Midlands,COVID-19,2.3200
+2024-05-19,West Midlands,influenza,.0800
+2024-05-19,West Midlands,RSV,.3800
+2024-05-19,Yorkshire and The Humber,COVID-19,2.6900
+2024-05-19,Yorkshire and The Humber,influenza,.8600
+2024-05-19,Yorkshire and The Humber,RSV,.9900
+2024-05-26,East Midlands,COVID-19,1.9900
+2024-05-26,East Midlands,influenza,1.5300
+2024-05-26,East Midlands,RSV,.3400
+2024-05-26,East of England,COVID-19,1.7000
+2024-05-26,East of England,influenza,.0700
+2024-05-26,East of England,RSV,.4000
+2024-05-26,England,COVID-19,2.2900
+2024-05-26,England,influenza,.9400
+2024-05-26,England,RSV,.3000
+2024-05-26,London,COVID-19,1.3700
+2024-05-26,London,influenza,.1700
+2024-05-26,London,RSV,.1000
+2024-05-26,North East,COVID-19,1.3000
+2024-05-26,North East,influenza,.1000
+2024-05-26,North East,RSV,.5300
+2024-05-26,North West,COVID-19,2.3000
+2024-05-26,North West,influenza,.0700
+2024-05-26,North West,RSV,.3800
+2024-05-26,South East,COVID-19,1.6000
+2024-05-26,South East,influenza,.7800
+2024-05-26,South East,RSV,.5200
+2024-05-26,South West,COVID-19,2.1300
+2024-05-26,South West,influenza,.1700
+2024-05-26,South West,RSV,.1900
+2024-05-26,West Midlands,COVID-19,1.8500
+2024-05-26,West Midlands,influenza,.0600
+2024-05-26,West Midlands,RSV,.8400
+2024-05-26,Yorkshire and The Humber,COVID-19,1.1700
+2024-05-26,Yorkshire and The Humber,influenza,.0900
+2024-05-26,Yorkshire and The Humber,RSV,.3700
+2024-06-02,East Midlands,COVID-19,2.1900
+2024-06-02,East Midlands,influenza,.0500
+2024-06-02,East Midlands,RSV,.1600
+2024-06-02,East of England,COVID-19,2.7200
+2024-06-02,East of England,influenza,1.7100
+2024-06-02,East of England,RSV,.3600
+2024-06-02,England,COVID-19,2.2300
+2024-06-02,England,influenza,.1000
+2024-06-02,England,RSV,.5400
+2024-06-02,London,COVID-19,2.3500
+2024-06-02,London,influenza,.2100
+2024-06-02,London,RSV,.3200
+2024-06-02,North East,COVID-19,1.9100
+2024-06-02,North East,influenza,.6400
+2024-06-02,North East,RSV,.2700
+2024-06-02,North West,COVID-19,2.0900
+2024-06-02,North West,influenza,.9100
+2024-06-02,North West,RSV,.7100
+2024-06-02,South East,COVID-19,2.5700
+2024-06-02,South East,influenza,.0800
+2024-06-02,South East,RSV,.6300
+2024-06-02,South West,COVID-19,2.0100
+2024-06-02,South West,influenza,1.2100
+2024-06-02,South West,RSV,.5600
+2024-06-02,West Midlands,COVID-19,2.8400
+2024-06-02,West Midlands,influenza,.0800
+2024-06-02,West Midlands,RSV,.0900
+2024-06-02,Yorkshire and The Humber,COVID-19,2.8300
+2024-06-02,Yorkshire and The Humber,influenza,.8700
+2024-06-02,Yorkshire and The Humber,RSV,.4000
+2024-06-09,East Midlands,COVID-19,2.2600
+2024-06-09,East Midlands,influenza,.1000
+2024-06-09,East Midlands,RSV,.3500
+2024-06-09,East of England,COVID-19,1.6600
+2024-06-09,East of England,influenza,.0900
+2024-06-09,East of England,RSV,.2200
+2024-06-09,England,COVID-19,2.3000
+2024-06-09,England,influenza,.8700
+2024-06-09,England,RSV,.6700
+2024-06-09,London,COVID-19,3.2000
+2024-06-09,London,influenza,.0800
+2024-06-09,London,RSV,.6600
+2024-06-09,North East,COVID-19,2.1500
+2024-06-09,North East,influenza,.7200
+2024-06-09,North East,RSV,.3300
+2024-06-09,North West,COVID-19,2.5000
+2024-06-09,North West,influenza,.3400
+2024-06-09,North West,RSV,.6700
+2024-06-09,South East,COVID-19,3.2800
+2024-06-09,South East,influenza,.8000
+2024-06-09,South East,RSV,.4700
+2024-06-09,South West,COVID-19,1.6100
+2024-06-09,South West,influenza,.6000
+2024-06-09,South West,RSV,.7300
+2024-06-09,West Midlands,COVID-19,1.9600
+2024-06-09,West Midlands,influenza,.0800
+2024-06-09,West Midlands,RSV,.5500
+2024-06-09,Yorkshire and The Humber,COVID-19,1.9000
+2024-06-09,Yorkshire and The Humber,influenza,.0500
+2024-06-09,Yorkshire and The Humber,RSV,.0600
+2024-06-16,East Midlands,COVID-19,2.4600
+2024-06-16,East Midlands,influenza,1.2300
+2024-06-16,East Midlands,RSV,.7500
+2024-06-16,East of England,COVID-19,3.0200
+2024-06-16,East of England,influenza,.5900
+2024-06-16,East of England,RSV,.4500
+2024-06-16,England,COVID-19,2.9200
+2024-06-16,England,influenza,.7100
+2024-06-16,England,RSV,.3900
+2024-06-16,London,COVID-19,2.7300
+2024-06-16,London,influenza,.2500
+2024-06-16,London,RSV,.7600
+2024-06-16,North East,COVID-19,2.7100
+2024-06-16,North East,influenza,1.2600
+2024-06-16,North East,RSV,.5100
+2024-06-16,North West,COVID-19,3.0100
+2024-06-16,North West,influenza,.9400
+2024-06-16,North West,RSV,.2000
+2024-06-16,South East,COVID-19,3.6400
+2024-06-16,South East,influenza,.0900
+2024-06-16,South East,RSV,.5900
+2024-06-16,South West,COVID-19,2.8200
+2024-06-16,South West,influenza,1.0300
+2024-06-16,South West,RSV,1.3200
+2024-06-16,West Midlands,COVID-19,1.3000
+2024-06-16,West Midlands,influenza,.1000
+2024-06-16,West Midlands,RSV,.4000
+2024-06-16,Yorkshire and The Humber,COVID-19,1.2500
+2024-06-16,Yorkshire and The Humber,influenza,.0400
+2024-06-16,Yorkshire and The Humber,RSV,.2700
+2024-06-23,East Midlands,COVID-19,3.4400
+2024-06-23,East Midlands,influenza,.9200
+2024-06-23,East Midlands,RSV,.9300
+2024-06-23,East of England,COVID-19,2.5600
+2024-06-23,East of England,influenza,1.3200
+2024-06-23,East of England,RSV,.7100
+2024-06-23,England,COVID-19,2.8900
+2024-06-23,England,influenza,.9400
+2024-06-23,England,RSV,.8100
+2024-06-23,London,COVID-19,3.2700
+2024-06-23,London,influenza,.3200
+2024-06-23,London,RSV,.3600
+2024-06-23,North East,COVID-19,4.7600
+2024-06-23,North East,influenza,1.2600
+2024-06-23,North East,RSV,1.4500
+2024-06-23,North West,COVID-19,2.5600
+2024-06-23,North West,influenza,.9500
+2024-06-23,North West,RSV,.8100
+2024-06-23,South East,COVID-19,3.1900
+2024-06-23,South East,influenza,1.6100
+2024-06-23,South East,RSV,.1000
+2024-06-23,South West,COVID-19,3.5100
+2024-06-23,South West,influenza,1.5300
+2024-06-23,South West,RSV,.2400
+2024-06-23,West Midlands,COVID-19,2.2900
+2024-06-23,West Midlands,influenza,.6200
+2024-06-23,West Midlands,RSV,.3500
+2024-06-23,Yorkshire and The Humber,COVID-19,2.2600
+2024-06-23,Yorkshire and The Humber,influenza,1.2200
+2024-06-23,Yorkshire and The Humber,RSV,1.4700
+2024-06-30,East Midlands,COVID-19,3.2700
+2024-06-30,East Midlands,influenza,2.5400
+2024-06-30,East Midlands,RSV,1.1900
+2024-06-30,East of England,COVID-19,3.0300
+2024-06-30,East of England,influenza,1.3300
+2024-06-30,East of England,RSV,1.0900
+2024-06-30,England,COVID-19,4.0800
+2024-06-30,England,influenza,1.9000
+2024-06-30,England,RSV,1.1300
+2024-06-30,London,COVID-19,1.6700
+2024-06-30,London,influenza,1.9200
+2024-06-30,London,RSV,.6100
+2024-06-30,North East,COVID-19,1.9900
+2024-06-30,North East,influenza,2.2100
+2024-06-30,North East,RSV,.9900
+2024-06-30,North West,COVID-19,3.2600
+2024-06-30,North West,influenza,2.6200
+2024-06-30,North West,RSV,1.0200
+2024-06-30,South East,COVID-19,2.6400
+2024-06-30,South East,influenza,1.8500
+2024-06-30,South East,RSV,.5400
+2024-06-30,South West,COVID-19,3.5900
+2024-06-30,South West,influenza,2.9400
+2024-06-30,South West,RSV,.9900
+2024-06-30,West Midlands,COVID-19,2.5600
+2024-06-30,West Midlands,influenza,2.9900
+2024-06-30,West Midlands,RSV,.9200
+2024-06-30,Yorkshire and The Humber,COVID-19,2.9200
+2024-06-30,Yorkshire and The Humber,influenza,2.3400
+2024-06-30,Yorkshire and The Humber,RSV,1.4900
+2024-07-07,East Midlands,COVID-19,2.5800
+2024-07-07,East Midlands,influenza,2.9900
+2024-07-07,East Midlands,RSV,.9600
+2024-07-07,East of England,COVID-19,3.3600
+2024-07-07,East of England,influenza,3.3400
+2024-07-07,East of England,RSV,1.2300
+2024-07-07,England,COVID-19,2.7600
+2024-07-07,England,influenza,.9600
+2024-07-07,England,RSV,1.6700
+2024-07-07,London,COVID-19,2.6600
+2024-07-07,London,influenza,3.0200
+2024-07-07,London,RSV,1.6800
+2024-07-07,North East,COVID-19,2.7600
+2024-07-07,North East,influenza,2.6100
+2024-07-07,North East,RSV,1.1700
+2024-07-07,North West,COVID-19,2.9700
+2024-07-07,North West,influenza,2.0400
+2024-07-07,North West,RSV,.7900
+2024-07-07,South East,COVID-19,3.3200
+2024-07-07,South East,influenza,2.7600
+2024-07-07,South East,RSV,1.2500
+2024-07-07,South West,COVID-19,2.9300
+2024-07-07,South West,influenza,3.2300
+2024-07-07,South West,RSV,1.1900
+2024-07-07,West Midlands,COVID-19,2.6900
+2024-07-07,West Midlands,influenza,4.9300
+2024-07-07,West Midlands,RSV,1.6200
+2024-07-07,Yorkshire and The Humber,COVID-19,3.8400
+2024-07-07,Yorkshire and The Humber,influenza,3.2800
+2024-07-07,Yorkshire and The Humber,RSV,1.1300
+2024-07-14,East Midlands,COVID-19,3.7400
+2024-07-14,East Midlands,influenza,4.5000
+2024-07-14,East Midlands,RSV,1.3900
+2024-07-14,East of England,COVID-19,3.8600
+2024-07-14,East of England,influenza,4.1400
+2024-07-14,East of England,RSV,2.1300
+2024-07-14,England,COVID-19,3.7100
+2024-07-14,England,influenza,3.1800
+2024-07-14,England,RSV,1.7000
+2024-07-14,London,COVID-19,3.0400
+2024-07-14,London,influenza,4.0000
+2024-07-14,London,RSV,1.9000
+2024-07-14,North East,COVID-19,2.6100
+2024-07-14,North East,influenza,4.8800
+2024-07-14,North East,RSV,.9700
+2024-07-14,North West,COVID-19,3.3800
+2024-07-14,North West,influenza,3.8800
+2024-07-14,North West,RSV,1.5700
+2024-07-14,South East,COVID-19,3.1800
+2024-07-14,South East,influenza,3.3900
+2024-07-14,South East,RSV,1.1200
+2024-07-14,South West,COVID-19,4.3300
+2024-07-14,South West,influenza,5.5900
+2024-07-14,South West,RSV,1.5500
+2024-07-14,West Midlands,COVID-19,3.2200
+2024-07-14,West Midlands,influenza,2.9900
+2024-07-14,West Midlands,RSV,1.4100
+2024-07-14,Yorkshire and The Humber,COVID-19,3.2200
+2024-07-14,Yorkshire and The Humber,influenza,2.7500
+2024-07-14,Yorkshire and The Humber,RSV,1.3600
+2024-07-21,East Midlands,COVID-19,3.0100
+2024-07-21,East Midlands,influenza,2.8400
+2024-07-21,East Midlands,RSV,2.7600
+2024-07-21,East of England,COVID-19,4.4600
+2024-07-21,East of England,influenza,5.1200
+2024-07-21,East of England,RSV,1.2500
+2024-07-21,England,COVID-19,3.4800
+2024-07-21,England,influenza,4.5200
+2024-07-21,England,RSV,2.0100
+2024-07-21,London,COVID-19,4.0000
+2024-07-21,London,influenza,7.5000
+2024-07-21,London,RSV,2.1200
+2024-07-21,North East,COVID-19,3.5800
+2024-07-21,North East,influenza,6.1000
+2024-07-21,North East,RSV,1.9100
+2024-07-21,North West,COVID-19,3.7000
+2024-07-21,North West,influenza,5.6600
+2024-07-21,North West,RSV,2.5200
+2024-07-21,South East,COVID-19,3.8700
+2024-07-21,South East,influenza,3.5300
+2024-07-21,South East,RSV,1.9900
+2024-07-21,South West,COVID-19,3.4400
+2024-07-21,South West,influenza,3.6300
+2024-07-21,South West,RSV,1.7900
+2024-07-21,West Midlands,COVID-19,3.9100
+2024-07-21,West Midlands,influenza,4.6500
+2024-07-21,West Midlands,RSV,1.3600
+2024-07-21,Yorkshire and The Humber,COVID-19,3.4200
+2024-07-21,Yorkshire and The Humber,influenza,4.3700
+2024-07-21,Yorkshire and The Humber,RSV,1.8000
+2024-07-28,East Midlands,COVID-19,5.5500
+2024-07-28,East Midlands,influenza,4.0500
+2024-07-28,East Midlands,RSV,2.7200
+2024-07-28,East of England,COVID-19,4.8800
+2024-07-28,East of England,influenza,4.8900
+2024-07-28,East of England,RSV,1.9400
+2024-07-28,England,COVID-19,3.6200
+2024-07-28,England,influenza,6.3500
+2024-07-28,England,RSV,2.1000
+2024-07-28,London,COVID-19,4.3300
+2024-07-28,London,influenza,4.3000
+2024-07-28,London,RSV,1.8400
+2024-07-28,North East,COVID-19,4.2500
+2024-07-28,North East,influenza,4.1400
+2024-07-28,North East,RSV,1.9800
+2024-07-28,North West,COVID-19,3.5700
+2024-07-28,North West,influenza,6.2900
+2024-07-28,North West,RSV,2.1300
+2024-07-28,South East,COVID-19,4.9100
+2024-07-28,South East,influenza,4.6000
+2024-07-28,South East,RSV,2.2800
+2024-07-28,South West,COVID-19,3.9200
+2024-07-28,South West,influenza,6.1200
+2024-07-28,South West,RSV,2.3700
+2024-07-28,West Midlands,COVID-19,3.6100
+2024-07-28,West Midlands,influenza,4.8600
+2024-07-28,West Midlands,RSV,1.7600
+2024-07-28,Yorkshire and The Humber,COVID-19,3.5300
+2024-07-28,Yorkshire and The Humber,influenza,4.8200
+2024-07-28,Yorkshire and The Humber,RSV,2.3800
+2024-08-04,East Midlands,COVID-19,4.6800
+2024-08-04,East Midlands,influenza,8.6900
+2024-08-04,East Midlands,RSV,1.8500
+2024-08-04,East of England,COVID-19,4.5900
+2024-08-04,East of England,influenza,8.0900
+2024-08-04,East of England,RSV,2.4500
+2024-08-04,England,COVID-19,4.3700
+2024-08-04,England,influenza,5.7200
+2024-08-04,England,RSV,2.8200
+2024-08-04,London,COVID-19,4.5600
+2024-08-04,London,influenza,7.7700
+2024-08-04,London,RSV,2.7500
+2024-08-04,North East,COVID-19,3.0800
+2024-08-04,North East,influenza,6.5600
+2024-08-04,North East,RSV,2.2800
+2024-08-04,North West,COVID-19,5.6800
+2024-08-04,North West,influenza,6.2800
+2024-08-04,North West,RSV,1.8200
+2024-08-04,South East,COVID-19,3.6100
+2024-08-04,South East,influenza,5.4600
+2024-08-04,South East,RSV,2.5300
+2024-08-04,South West,COVID-19,3.2100
+2024-08-04,South West,influenza,6.3800
+2024-08-04,South West,RSV,1.8700
+2024-08-04,West Midlands,COVID-19,3.7400
+2024-08-04,West Midlands,influenza,4.6600
+2024-08-04,West Midlands,RSV,2.2800
+2024-08-04,Yorkshire and The Humber,COVID-19,5.3100
+2024-08-04,Yorkshire and The Humber,influenza,5.2800
+2024-08-04,Yorkshire and The Humber,RSV,2.1100
+2024-08-11,East Midlands,COVID-19,4.8900
+2024-08-11,East Midlands,influenza,7.5800
+2024-08-11,East Midlands,RSV,2.7200
+2024-08-11,East of England,COVID-19,4.6000
+2024-08-11,East of England,influenza,6.1400
+2024-08-11,East of England,RSV,2.3400
+2024-08-11,England,COVID-19,4.7800
+2024-08-11,England,influenza,6.4900
+2024-08-11,England,RSV,2.8400
+2024-08-11,London,COVID-19,4.5400
+2024-08-11,London,influenza,8.0300
+2024-08-11,London,RSV,3.4900
+2024-08-11,North East,COVID-19,4.2100
+2024-08-11,North East,influenza,6.8600
+2024-08-11,North East,RSV,2.9000
+2024-08-11,North West,COVID-19,5.3300
+2024-08-11,North West,influenza,7.4800
+2024-08-11,North West,RSV,2.1600
+2024-08-11,South East,COVID-19,4.4100
+2024-08-11,South East,influenza,6.9400
+2024-08-11,South East,RSV,2.7700
+2024-08-11,South West,COVID-19,4.2700
+2024-08-11,South West,influenza,5.9600
+2024-08-11,South West,RSV,3.2600
+2024-08-11,West Midlands,COVID-19,4.8100
+2024-08-11,West Midlands,influenza,7.9600
+2024-08-11,West Midlands,RSV,2.9600
+2024-08-11,Yorkshire and The Humber,COVID-19,3.5200
+2024-08-11,Yorkshire and The Humber,influenza,7.8900
+2024-08-11,Yorkshire and The Humber,RSV,3.3200
+2024-08-18,East Midlands,COVID-19,4.6500
+2024-08-18,East Midlands,influenza,8.6600
+2024-08-18,East Midlands,RSV,2.8600
+2024-08-18,East of England,COVID-19,3.1500
+2024-08-18,East of England,influenza,6.6300
+2024-08-18,East of England,RSV,2.8500
+2024-08-18,England,COVID-19,6.5100
+2024-08-18,England,influenza,7.7400
+2024-08-18,England,RSV,2.7900
+2024-08-18,London,COVID-19,6.3700
+2024-08-18,London,influenza,7.4100
+2024-08-18,London,RSV,2.6700
+2024-08-18,North East,COVID-19,4.7000
+2024-08-18,North East,influenza,8.0700
+2024-08-18,North East,RSV,2.5600
+2024-08-18,North West,COVID-19,5.2000
+2024-08-18,North West,influenza,8.7000
+2024-08-18,North West,RSV,3.7900
+2024-08-18,South East,COVID-19,4.5100
+2024-08-18,South East,influenza,7.2300
+2024-08-18,South East,RSV,2.5700
+2024-08-18,South West,COVID-19,4.9000
+2024-08-18,South West,influenza,7.8200
+2024-08-18,South West,RSV,3.0600
+2024-08-18,West Midlands,COVID-19,3.6800
+2024-08-18,West Midlands,influenza,7.8200
+2024-08-18,West Midlands,RSV,3.4000
+2024-08-18,Yorkshire and The Humber,COVID-19,4.9800
+2024-08-18,Yorkshire and The Humber,influenza,7.9900
+2024-08-18,Yorkshire and The Humber,RSV,3.7300
+2024-08-25,East Midlands,COVID-19,5.4300
+2024-08-25,East Midlands,influenza,10.6500
+2024-08-25,East Midlands,RSV,3.8500
+2024-08-25,East of England,COVID-19,5.1900
+2024-08-25,East of England,influenza,8.7900
+2024-08-25,East of England,RSV,2.8300
+2024-08-25,England,COVID-19,5.2900
+2024-08-25,England,influenza,9.8900
+2024-08-25,England,RSV,3.8000
+2024-08-25,London,COVID-19,5.2300
+2024-08-25,London,influenza,10.5300
+2024-08-25,London,RSV,2.9200
+2024-08-25,North East,COVID-19,4.9500
+2024-08-25,North East,influenza,9.1200
+2024-08-25,North East,RSV,4.0100
+2024-08-25,North West,COVID-19,5.1500
+2024-08-25,North West,influenza,9.6200
+2024-08-25,North West,RSV,3.2000
+2024-08-25,South East,COVID-19,6.8300
+2024-08-25,South East,influenza,9.3600
+2024-08-25,South East,RSV,2.8100
+2024-08-25,South West,COVID-19,5.9200
+2024-08-25,South West,influenza,9.0600
+2024-08-25,South West,RSV,2.4700
+2024-08-25,West Midlands,COVID-19,5.6400
+2024-08-25,West Midlands,influenza,7.3000
+2024-08-25,West Midlands,RSV,3.7800
+2024-08-25,Yorkshire and The Humber,COVID-19,6.3400
+2024-08-25,Yorkshire and The Humber,influenza,7.7200
+2024-08-25,Yorkshire and The Humber,RSV,4.0400
+2024-09-01,East Midlands,COVID-19,4.9800
+2024-09-01,East Midlands,influenza,11.7300
+2024-09-01,East Midlands,RSV,3.1500
+2024-09-01,East of England,COVID-19,6.8400
+2024-09-01,East of England,influenza,9.9100
+2024-09-01,East of England,RSV,3.9400
+2024-09-01,England,COVID-19,5.1500
+2024-09-01,England,influenza,10.4100
+2024-09-01,England,RSV,3.9100
+2024-09-01,London,COVID-19,6.3400
+2024-09-01,London,influenza,10.4900
+2024-09-01,London,RSV,2.8900
+2024-09-01,North East,COVID-19,6.7500
+2024-09-01,North East,influenza,10.3000
+2024-09-01,North East,RSV,3.9200
+2024-09-01,North West,COVID-19,5.5000
+2024-09-01,North West,influenza,9.7100
+2024-09-01,North West,RSV,3.7300
+2024-09-01,South East,COVID-19,6.1400
+2024-09-01,South East,influenza,9.2200
+2024-09-01,South East,RSV,3.0000
+2024-09-01,South West,COVID-19,6.1500
+2024-09-01,South West,influenza,8.8100
+2024-09-01,South West,RSV,3.8000
+2024-09-01,West Midlands,COVID-19,5.0500
+2024-09-01,West Midlands,influenza,8.9400
+2024-09-01,West Midlands,RSV,3.7200
+2024-09-01,Yorkshire and The Humber,COVID-19,5.6300
+2024-09-01,Yorkshire and The Humber,influenza,10.6300
+2024-09-01,Yorkshire and The Humber,RSV,4.4600
+2024-09-08,East Midlands,COVID-19,4.6500
+2024-09-08,East Midlands,influenza,9.2800
+2024-09-08,East Midlands,RSV,4.3800
+2024-09-08,East of England,COVID-19,7.3100
+2024-09-08,East of England,influenza,12.9800
+2024-09-08,East of England,RSV,3.3900
+2024-09-08,England,COVID-19,6.1700
+2024-09-08,England,influenza,10.6800
+2024-09-08,England,RSV,3.8800
+2024-09-08,London,COVID-19,6.7300
+2024-09-08,London,influenza,9.7300
+2024-09-08,London,RSV,4.0500
+2024-09-08,North East,COVID-19,5.3100
+2024-09-08,North East,influenza,11.9600
+2024-09-08,North East,RSV,3.9200
+2024-09-08,North West,COVID-19,5.3500
+2024-09-08,North West,influenza,12.9500
+2024-09-08,North West,RSV,4.9500
+2024-09-08,South East,COVID-19,6.3100
+2024-09-08,South East,influenza,9.5600
+2024-09-08,South East,RSV,3.1700
+2024-09-08,South West,COVID-19,4.5900
+2024-09-08,South West,influenza,10.5900
+2024-09-08,South West,RSV,4.6700
+2024-09-08,West Midlands,COVID-19,5.2000
+2024-09-08,West Midlands,influenza,13.8100
+2024-09-08,West Midlands,RSV,3.7200
+2024-09-08,Yorkshire and The Humber,COVID-19,5.1100
+2024-09-08,Yorkshire and The Humber,influenza,11.3600
+2024-09-08,Yorkshire and The Humber,RSV,3.2100
+2024-09-15,East Midlands,COVID-19,5.3300
+2024-09-15,East Midlands,influenza,10.9800
+2024-09-15,East Midlands,RSV,4.8500
+2024-09-15,East of England,COVID-19,7.6000
+2024-09-15,East of England,influenza,13.3500
+2024-09-15,East of England,RSV,4.3900
+2024-09-15,England,COVID-19,5.3000
+2024-09-15,England,influenza,12.4300
+2024-09-15,England,RSV,4.1600
+2024-09-15,London,COVID-19,7.1900
+2024-09-15,London,influenza,11.4900
+2024-09-15,London,RSV,5.1400
+2024-09-15,North East,COVID-19,4.6800
+2024-09-15,North East,influenza,12.5400
+2024-09-15,North East,RSV,3.8600
+2024-09-15,North West,COVID-19,6.9400
+2024-09-15,North West,influenza,13.9500
+2024-09-15,North West,RSV,4.0500
+2024-09-15,South East,COVID-19,5.8100
+2024-09-15,South East,influenza,11.2500
+2024-09-15,South East,RSV,4.1800
+2024-09-15,South West,COVID-19,5.6900
+2024-09-15,South West,influenza,13.5800
+2024-09-15,South West,RSV,5.2200
+2024-09-15,West Midlands,COVID-19,6.5000
+2024-09-15,West Midlands,influenza,12.1800
+2024-09-15,West Midlands,RSV,3.4800
+2024-09-15,Yorkshire and The Humber,COVID-19,6.9400
+2024-09-15,Yorkshire and The Humber,influenza,13.6100
+2024-09-15,Yorkshire and The Humber,RSV,4.3200
+2024-09-22,East Midlands,COVID-19,5.0800
+2024-09-22,East Midlands,influenza,14.3600
+2024-09-22,East Midlands,RSV,5.3700
+2024-09-22,East of England,COVID-19,9.3700
+2024-09-22,East of England,influenza,11.2200
+2024-09-22,East of England,RSV,4.1200
+2024-09-22,England,COVID-19,6.5800
+2024-09-22,England,influenza,12.9600
+2024-09-22,England,RSV,4.6700
+2024-09-22,London,COVID-19,5.8700
+2024-09-22,London,influenza,15.9900
+2024-09-22,London,RSV,4.6400
+2024-09-22,North East,COVID-19,8.0000
+2024-09-22,North East,influenza,10.5900
+2024-09-22,North East,RSV,4.6800
+2024-09-22,North West,COVID-19,6.0500
+2024-09-22,North West,influenza,10.8800
+2024-09-22,North West,RSV,5.1000
+2024-09-22,South East,COVID-19,6.1500
+2024-09-22,South East,influenza,16.5300
+2024-09-22,South East,RSV,5.4600
+2024-09-22,South West,COVID-19,6.8800
+2024-09-22,South West,influenza,12.0200
+2024-09-22,South West,RSV,4.8000
+2024-09-22,West Midlands,COVID-19,6.4800
+2024-09-22,West Midlands,influenza,10.4000
+2024-09-22,West Midlands,RSV,5.5300
+2024-09-22,Yorkshire and The Humber,COVID-19,5.6900
+2024-09-22,Yorkshire and The Humber,influenza,14.1000
+2024-09-22,Yorkshire and The Humber,RSV,3.6600
+2024-09-29,East Midlands,COVID-19,5.1400
+2024-09-29,East Midlands,influenza,13.4500
+2024-09-29,East Midlands,RSV,5.4200
+2024-09-29,East of England,COVID-19,5.7800
+2024-09-29,East of England,influenza,12.6700
+2024-09-29,East of England,RSV,5.3700
+2024-09-29,England,COVID-19,6.9000
+2024-09-29,England,influenza,14.4400
+2024-09-29,England,RSV,4.9800
+2024-09-29,London,COVID-19,7.7500
+2024-09-29,London,influenza,15.0500
+2024-09-29,London,RSV,4.8200
+2024-09-29,North East,COVID-19,6.0200
+2024-09-29,North East,influenza,15.5800
+2024-09-29,North East,RSV,5.2800
+2024-09-29,North West,COVID-19,7.6100
+2024-09-29,North West,influenza,13.9900
+2024-09-29,North West,RSV,4.1100
+2024-09-29,South East,COVID-19,6.2000
+2024-09-29,South East,influenza,12.4200
+2024-09-29,South East,RSV,4.1900
+2024-09-29,South West,COVID-19,7.2800
+2024-09-29,South West,influenza,12.9700
+2024-09-29,South West,RSV,6.0200
+2024-09-29,West Midlands,COVID-19,6.4200
+2024-09-29,West Midlands,influenza,14.9000
+2024-09-29,West Midlands,RSV,5.1400
+2024-09-29,Yorkshire and The Humber,COVID-19,6.7700
+2024-09-29,Yorkshire and The Humber,influenza,13.6300
+2024-09-29,Yorkshire and The Humber,RSV,4.4800
+2024-10-06,East Midlands,COVID-19,7.8700
+2024-10-06,East Midlands,influenza,16.9100
+2024-10-06,East Midlands,RSV,6.2400
+2024-10-06,East of England,COVID-19,5.7200
+2024-10-06,East of England,influenza,15.9800
+2024-10-06,East of England,RSV,4.9400
+2024-10-06,England,COVID-19,7.5200
+2024-10-06,England,influenza,13.8100
+2024-10-06,England,RSV,5.1300
+2024-10-06,London,COVID-19,6.8500
+2024-10-06,London,influenza,17.2300
+2024-10-06,London,RSV,4.5400
+2024-10-06,North East,COVID-19,6.9300
+2024-10-06,North East,influenza,11.6100
+2024-10-06,North East,RSV,4.7700
+2024-10-06,North West,COVID-19,5.6000
+2024-10-06,North West,influenza,15.3100
+2024-10-06,North West,RSV,5.7600
+2024-10-06,South East,COVID-19,5.7700
+2024-10-06,South East,influenza,13.0300
+2024-10-06,South East,RSV,5.1800
+2024-10-06,South West,COVID-19,5.1900
+2024-10-06,South West,influenza,12.8900
+2024-10-06,South West,RSV,4.9500
+2024-10-06,West Midlands,COVID-19,6.4400
+2024-10-06,West Midlands,influenza,17.5700
+2024-10-06,West Midlands,RSV,4.9300
+2024-10-06,Yorkshire and The Humber,COVID-19,6.9400
+2024-10-06,Yorkshire and The Humber,influenza,14.4400
+2024-10-06,Yorkshire and The Humber,RSV,4.1800
+2024-10-13,East Midlands,COVID-19,6.7300
+2024-10-13,East Midlands,influenza,13.6200
+2024-10-13,East Midlands,RSV,4.7200
+2024-10-13,East of England,COVID-19,5.4400
+2024-10-13,East of England,influenza,17.1700
+2024-10-13,East of England,RSV,5.6200
+2024-10-13,England,COVID-19,7.8100
+2024-10-13,England,influenza,14.7200
+2024-10-13,England,RSV,5.3600
+2024-10-13,London,COVID-19,7.9600
+2024-10-13,London,influenza,14.4500
+2024-10-13,London,RSV,4.2200
+2024-10-13,North East,COVID-19,6.3800
+2024-10-13,North East,influenza,16.2900
+2024-10-13,North East,RSV,4.9200
+2024-10-13,North West,COVID-19,6.2500
+2024-10-13,North West,influenza,15.0300
+2024-10-13,North West,RSV,4.3900
+2024-10-13,South East,COVID-19,7.0700
+2024-10-13,South East,influenza,13.9700
+2024-10-13,South East,RSV,5.1800
+2024-10-13,South West,COVID-19,7.8900
+2024-10-13,South West,influenza,17.8800
+2024-10-13,South West,RSV,5.6200
+2024-10-13,West Midlands,COVID-19,8.3300
+2024-10-13,West Midlands,influenza,15.0400
+2024-10-13,West Midlands,RSV,4.6900
+2024-10-13,Yorkshire and The Humber,COVID-19,7.9100
+2024-10-13,Yorkshire and The Humber,influenza,13.2500
+2024-10-13,Yorkshire and The Humber,RSV,5.0600
+2024-10-20,East Midlands,COVID-19,8.5900
+2024-10-20,East Midlands,influenza,12.3100
+2024-10-20,East Midlands,RSV,6.7300
+2024-10-20,East of England,COVID-19,5.7800
+2024-10-20,East of England,influenza,16.2500
+2024-10-20,East of England,RSV,4.8200
+2024-10-20,England,COVID-19,7.2500
+2024-10-20,England,influenza,15.1800
+2024-10-20,England,RSV,5.9500
+2024-10-20,London,COVID-19,7.7600
+2024-10-20,London,influenza,17.7800
+2024-10-20,London,RSV,4.7600
+2024-10-20,North East,COVID-19,6.3800
+2024-10-20,North East,influenza,15.8100
+2024-10-20,North East,RSV,6.6600
+2024-10-20,North West,COVID-19,8.0400
+2024-10-20,North West,influenza,16.5500
+2024-10-20,North West,RSV,4.3400
+2024-10-20,South East,COVID-19,6.5300
+2024-10-20,South East,influenza,12.6200
+2024-10-20,South East,RSV,5.3700
+2024-10-20,South West,COVID-19,8.5600
+2024-10-20,South West,influenza,14.8100
+2024-10-20,South West,RSV,4.7100
+2024-10-20,West Midlands,COVID-19,7.7700
+2024-10-20,West Midlands,influenza,17.8300
+2024-10-20,West Midlands,RSV,5.9800
+2024-10-20,Yorkshire and The Humber,COVID-19,6.3100
+2024-10-20,Yorkshire and The Humber,influenza,14.0500
+2024-10-20,Yorkshire and The Humber,RSV,5.6600
+2024-10-27,East Midlands,COVID-19,8.2000
+2024-10-27,East Midlands,influenza,15.1100
+2024-10-27,East Midlands,RSV,5.7800
+2024-10-27,East of England,COVID-19,8.7000
+2024-10-27,East of England,influenza,13.0900
+2024-10-27,East of England,RSV,6.3600
+2024-10-27,England,COVID-19,7.5600
+2024-10-27,England,influenza,14.7200
+2024-10-27,England,RSV,5.8900
+2024-10-27,London,COVID-19,8.3700
+2024-10-27,London,influenza,19.1400
+2024-10-27,London,RSV,4.6100
+2024-10-27,North East,COVID-19,8.7000
+2024-10-27,North East,influenza,15.6600
+2024-10-27,North East,RSV,4.6700
+2024-10-27,North West,COVID-19,5.9600
+2024-10-27,North West,influenza,17.6700
+2024-10-27,North West,RSV,4.7000
+2024-10-27,South East,COVID-19,7.5800
+2024-10-27,South East,influenza,13.1300
+2024-10-27,South East,RSV,5.5300
+2024-10-27,South West,COVID-19,5.9900
+2024-10-27,South West,influenza,18.3600
+2024-10-27,South West,RSV,5.6300
+2024-10-27,West Midlands,COVID-19,7.2300
+2024-10-27,West Midlands,influenza,15.2200
+2024-10-27,West Midlands,RSV,5.8100
+2024-10-27,Yorkshire and The Humber,COVID-19,5.5800
+2024-10-27,Yorkshire and The Humber,influenza,16.4400
+2024-10-27,Yorkshire and The Humber,RSV,5.9000
+2024-11-03,East Midlands,COVID-19,7.1500
+2024-11-03,East Midlands,influenza,17.0900
+2024-11-03,East Midlands,RSV,4.9400
+2024-11-03,East of England,COVID-19,7.4700
+2024-11-03,East of England,influenza,18.3500
+2024-11-03,East of England,RSV,5.4400
+2024-11-03,England,COVID-19,7.3400
+2024-11-03,England,influenza,16.4200
+2024-11-03,England,RSV,5.7200
+2024-11-03,London,COVID-19,7.0100
+2024-11-03,London,influenza,13.6400
+2024-11-03,London,RSV,4.8600
+2024-11-03,North East,COVID-19,6.3400
+2024-11-03,North East,influenza,18.5900
+2024-11-03,North East,RSV,5.3200
+2024-11-03,North West,COVID-19,8.0900
+2024-11-03,North West,influenza,20.7700
+2024-11-03,North West,RSV,5.2100
+2024-11-03,South East,COVID-19,7.5300
+2024-11-03,South East,influenza,16.3500
+2024-11-03,South East,RSV,6.0200
+2024-11-03,South West,COVID-19,9.2900
+2024-11-03,South West,influenza,13.7500
+2024-11-03,South West,RSV,6.5000
+2024-11-03,West Midlands,COVID-19,7.3700
+2024-11-03,West Midlands,influenza,15.1500
+2024-11-03,West Midlands,RSV,6.2800
+2024-11-03,Yorkshire and The Humber,COVID-19,8.3200
+2024-11-03,Yorkshire and The Humber,influenza,16.0700
+2024-11-03,Yorkshire and The Humber,RSV,7.0700
+2024-11-10,East Midlands,COVID-19,7.1000
+2024-11-10,East Midlands,influenza,14.8400
+2024-11-10,East Midlands,RSV,5.2200
+2024-11-10,East of England,COVID-19,8.8000
+2024-11-10,East of England,influenza,17.5700
+2024-11-10,East of England,RSV,4.9500
+2024-11-10,England,COVID-19,7.2200
+2024-11-10,England,influenza,16.5600
+2024-11-10,England,RSV,6.0000
+2024-11-10,London,COVID-19,8.4700
+2024-11-10,London,influenza,14.7100
+2024-11-10,London,RSV,6.9700
+2024-11-10,North East,COVID-19,9.0200
+2024-11-10,North East,influenza,16.0800
+2024-11-10,North East,RSV,6.6700
+2024-11-10,North West,COVID-19,7.4900
+2024-11-10,North West,influenza,16.8700
+2024-11-10,North West,RSV,5.2400
+2024-11-10,South East,COVID-19,7.0300
+2024-11-10,South East,influenza,17.4200
+2024-11-10,South East,RSV,4.4300
+2024-11-10,South West,COVID-19,6.9700
+2024-11-10,South West,influenza,18.8500
+2024-11-10,South West,RSV,6.6800
+2024-11-10,West Midlands,COVID-19,8.1100
+2024-11-10,West Midlands,influenza,16.1800
+2024-11-10,West Midlands,RSV,5.5600
+2024-11-10,Yorkshire and The Humber,COVID-19,8.0200
+2024-11-10,Yorkshire and The Humber,influenza,19.4000
+2024-11-10,Yorkshire and The Humber,RSV,6.6900
+2024-11-17,East Midlands,COVID-19,8.7000
+2024-11-17,East Midlands,influenza,17.4400
+2024-11-17,East Midlands,RSV,5.5000
+2024-11-17,East of England,COVID-19,7.0800
+2024-11-17,East of England,influenza,17.1200
+2024-11-17,East of England,RSV,5.8400
+2024-11-17,England,COVID-19,7.9500
+2024-11-17,England,influenza,16.4000
+2024-11-17,England,RSV,5.4200
+2024-11-17,London,COVID-19,8.4000
+2024-11-17,London,influenza,16.1700
+2024-11-17,London,RSV,6.8200
+2024-11-17,North East,COVID-19,6.8700
+2024-11-17,North East,influenza,13.1600
+2024-11-17,North East,RSV,5.0900
+2024-11-17,North West,COVID-19,9.0300
+2024-11-17,North West,influenza,14.4500
+2024-11-17,North West,RSV,4.4100
+2024-11-17,South East,COVID-19,7.4200
+2024-11-17,South East,influenza,16.6400
+2024-11-17,South East,RSV,7.2900
+2024-11-17,South West,COVID-19,6.5200
+2024-11-17,South West,influenza,21.3100
+2024-11-17,South West,RSV,5.2100
+2024-11-17,West Midlands,COVID-19,9.4300
+2024-11-17,West Midlands,influenza,13.2800
+2024-11-17,West Midlands,RSV,6.0500
+2024-11-17,Yorkshire and The Humber,COVID-19,7.9000
+2024-11-17,Yorkshire and The Humber,influenza,18.9900
+2024-11-17,Yorkshire and The Humber,RSV,5.2300
+2024-11-24,East Midlands,COVID-19,8.4200
+2024-11-24,East Midlands,influenza,19.6000
+2024-11-24,East Midlands,RSV,5.7300
+2024-11-24,East of England,COVID-19,9.1100
+2024-11-24,East of England,influenza,15.7500
+2024-11-24,East of England,RSV,5.9600
+2024-11-24,England,COVID-19,7.1400
+2024-11-24,England,influenza,16.1400
+2024-11-24,England,RSV,5.8300
+2024-11-24,London,COVID-19,6.6700
+2024-11-24,London,influenza,18.6900
+2024-11-24,London,RSV,4.9100
+2024-11-24,North East,COVID-19,6.6000
+2024-11-24,North East,influenza,17.1300
+2024-11-24,North East,RSV,4.3800
+2024-11-24,North West,COVID-19,6.2400
+2024-11-24,North West,influenza,17.1900
+2024-11-24,North West,RSV,4.9400
+2024-11-24,South East,COVID-19,6.9500
+2024-11-24,South East,influenza,19.3300
+2024-11-24,South East,RSV,5.2100
+2024-11-24,South West,COVID-19,7.9000
+2024-11-24,South West,influenza,17.3800
+2024-11-24,South West,RSV,5.5500
+2024-11-24,West Midlands,COVID-19,7.7700
+2024-11-24,West Midlands,influenza,17.0800
+2024-11-24,West Midlands,RSV,6.6200
+2024-11-24,Yorkshire and The Humber,COVID-19,7.3800
+2024-11-24,Yorkshire and The Humber,influenza,18.1900
+2024-11-24,Yorkshire and The Humber,RSV,5.7900
+2024-12-01,East Midlands,COVID-19,7.0800
+2024-12-01,East Midlands,influenza,13.2000
+2024-12-01,East Midlands,RSV,5.9300
+2024-12-01,East of England,COVID-19,7.3600
+2024-12-01,East of England,influenza,16.1900
+2024-12-01,East of England,RSV,4.5500
+2024-12-01,England,COVID-19,7.5000
+2024-12-01,England,influenza,15.0000
+2024-12-01,England,RSV,6.1900
+2024-12-01,London,COVID-19,8.4600
+2024-12-01,London,influenza,20.1300
+2024-12-01,London,RSV,5.0600
+2024-12-01,North East,COVID-19,7.4400
+2024-12-01,North East,influenza,14.6800
+2024-12-01,North East,RSV,5.9800
+2024-12-01,North West,COVID-19,7.4200
+2024-12-01,North West,influenza,20.3600
+2024-12-01,North West,RSV,4.8200
+2024-12-01,South East,COVID-19,6.7000
+2024-12-01,South East,influenza,15.8100
+2024-12-01,South East,RSV,5.1200
+2024-12-01,South West,COVID-19,8.4700
+2024-12-01,South West,influenza,17.7500
+2024-12-01,South West,RSV,5.4100
+2024-12-01,West Midlands,COVID-19,7.5900
+2024-12-01,West Midlands,influenza,17.8900
+2024-12-01,West Midlands,RSV,6.2100
+2024-12-01,Yorkshire and The Humber,COVID-19,8.7100
+2024-12-01,Yorkshire and The Humber,influenza,18.1800
+2024-12-01,Yorkshire and The Humber,RSV,5.8100
+2024-12-08,East Midlands,COVID-19,8.3200
+2024-12-08,East Midlands,influenza,16.9100
+2024-12-08,East Midlands,RSV,6.5200
+2024-12-08,East of England,COVID-19,8.9400
+2024-12-08,East of England,influenza,13.2600
+2024-12-08,East of England,RSV,5.8000
+2024-12-08,England,COVID-19,7.1100
+2024-12-08,England,influenza,15.4800
+2024-12-08,England,RSV,5.4800
+2024-12-08,London,COVID-19,9.3500
+2024-12-08,London,influenza,13.3400
+2024-12-08,London,RSV,4.6900
+2024-12-08,North East,COVID-19,7.6600
+2024-12-08,North East,influenza,19.3800
+2024-12-08,North East,RSV,4.8700
+2024-12-08,North West,COVID-19,8.0200
+2024-12-08,North West,influenza,13.0000
+2024-12-08,North West,RSV,6.6100
+2024-12-08,South East,COVID-19,8.2500
+2024-12-08,South East,influenza,14.5800
+2024-12-08,South East,RSV,5.3200
+2024-12-08,South West,COVID-19,8.1100
+2024-12-08,South West,influenza,13.7600
+2024-12-08,South West,RSV,6.3000
+2024-12-08,West Midlands,COVID-19,8.4900
+2024-12-08,West Midlands,influenza,15.4300
+2024-12-08,West Midlands,RSV,6.0400
+2024-12-08,Yorkshire and The Humber,COVID-19,8.8200
+2024-12-08,Yorkshire and The Humber,influenza,17.1700
+2024-12-08,Yorkshire and The Humber,RSV,4.7900
+2024-12-15,East Midlands,COVID-19,7.5600
+2024-12-15,East Midlands,influenza,17.9100
+2024-12-15,East Midlands,RSV,5.5200
+2024-12-15,East of England,COVID-19,7.1400
+2024-12-15,East of England,influenza,17.4500
+2024-12-15,East of England,RSV,6.4500
+2024-12-15,England,COVID-19,7.7400
+2024-12-15,England,influenza,15.1200
+2024-12-15,England,RSV,5.1500
+2024-12-15,London,COVID-19,7.4600
+2024-12-15,London,influenza,17.9000
+2024-12-15,London,RSV,5.4000
+2024-12-15,North East,COVID-19,5.8500
+2024-12-15,North East,influenza,17.8500
+2024-12-15,North East,RSV,5.2300
+2024-12-15,North West,COVID-19,8.3400
+2024-12-15,North West,influenza,14.7900
+2024-12-15,North West,RSV,4.5400
+2024-12-15,South East,COVID-19,7.1500
+2024-12-15,South East,influenza,16.4100
+2024-12-15,South East,RSV,5.2100
+2024-12-15,South West,COVID-19,7.6600
+2024-12-15,South West,influenza,11.7000
+2024-12-15,South West,RSV,4.9900
+2024-12-15,West Midlands,COVID-19,7.6600
+2024-12-15,West Midlands,influenza,17.0200
+2024-12-15,West Midlands,RSV,6.0500
+2024-12-15,Yorkshire and The Humber,COVID-19,8.1500
+2024-12-15,Yorkshire and The Humber,influenza,17.4700
+2024-12-15,Yorkshire and The Humber,RSV,4.9000
+2024-12-22,East Midlands,COVID-19,6.8400
+2024-12-22,East Midlands,influenza,18.2700
+2024-12-22,East Midlands,RSV,5.0100
+2024-12-22,East of England,COVID-19,6.6800
+2024-12-22,East of England,influenza,16.8700
+2024-12-22,East of England,RSV,6.7200
+2024-12-22,England,COVID-19,8.1900
+2024-12-22,England,influenza,14.2200
+2024-12-22,England,RSV,5.0300
+2024-12-22,London,COVID-19,7.8800
+2024-12-22,London,influenza,15.8800
+2024-12-22,London,RSV,5.1400
+2024-12-22,North East,COVID-19,7.5600
+2024-12-22,North East,influenza,15.3400
+2024-12-22,North East,RSV,4.3200
+2024-12-22,North West,COVID-19,6.0600
+2024-12-22,North West,influenza,14.6800
+2024-12-22,North West,RSV,5.6500
+2024-12-22,South East,COVID-19,7.6300
+2024-12-22,South East,influenza,12.5300
+2024-12-22,South East,RSV,5.4700
+2024-12-22,South West,COVID-19,5.5000
+2024-12-22,South West,influenza,13.5000
+2024-12-22,South West,RSV,4.6900
+2024-12-22,West Midlands,COVID-19,9.2800
+2024-12-22,West Midlands,influenza,15.6500
+2024-12-22,West Midlands,RSV,6.1800
+2024-12-22,Yorkshire and The Humber,COVID-19,6.3700
+2024-12-22,Yorkshire and The Humber,influenza,13.5500
+2024-12-22,Yorkshire and The Humber,RSV,5.1400
+2024-12-29,East Midlands,COVID-19,6.0100
+2024-12-29,East Midlands,influenza,17.3500
+2024-12-29,East Midlands,RSV,5.1100
+2024-12-29,East of England,COVID-19,7.5100
+2024-12-29,East of England,influenza,16.4000
+2024-12-29,East of England,RSV,5.2300
+2024-12-29,England,COVID-19,6.4200
+2024-12-29,England,influenza,14.1000
+2024-12-29,England,RSV,4.7000
+2024-12-29,London,COVID-19,6.2900
+2024-12-29,London,influenza,16.0900
+2024-12-29,London,RSV,5.7100
+2024-12-29,North East,COVID-19,8.0600
+2024-12-29,North East,influenza,14.3500
+2024-12-29,North East,RSV,4.8100
+2024-12-29,North West,COVID-19,5.8100
+2024-12-29,North West,influenza,15.6400
+2024-12-29,North West,RSV,4.5700
+2024-12-29,South East,COVID-19,9.5800
+2024-12-29,South East,influenza,13.7500
+2024-12-29,South East,RSV,4.5200
+2024-12-29,South West,COVID-19,5.4400
+2024-12-29,South West,influenza,12.0700
+2024-12-29,South West,RSV,4.4000
+2024-12-29,West Midlands,COVID-19,7.7400
+2024-12-29,West Midlands,influenza,17.8000
+2024-12-29,West Midlands,RSV,5.2200
+2024-12-29,Yorkshire and The Humber,COVID-19,5.7500
+2024-12-29,Yorkshire and The Humber,influenza,18.1600
+2024-12-29,Yorkshire and The Humber,RSV,5.5100
+
+(3150 rows affected)
