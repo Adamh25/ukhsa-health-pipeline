@@ -404,7 +404,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-**Adam** | Life Sciences Student  
+**Adam Hussain** | Life Sciences Student  
 [LinkedIn](https://www.linkedin.com/in/adamhussain25/) | hlahus17@liverpool.ac.uk | [GitHub](https://github.com/Adamh25)
 
 ---
